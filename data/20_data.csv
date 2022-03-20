@@ -1,63 +1,20 @@
 ﻿;Name;Vorname;Fraktion/Gruppe;20-003-01;20-003-02;20-007-01;20-007-02;20-014-02;20-014-03;20-015-01;20-021-01;20-022-01;20-022-02;20-022-03
-0;Aigner;Ilse;CDU/CSU;;;;;;;;;;;
-1;Altmaier;Peter;CDU/CSU;;;;;;;;;;;
 2;Aumer;Peter;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 3;Bär;Dorothee;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;2.0;1.0;2.0;2.0;2.0
 4;Bareiß;Thomas;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-5;Barthle;Norbert;CDU/CSU;;;;;;;;;;;
-6;Baumann;Günter;CDU/CSU;;;;;;;;;;;
-7;Beck (Reutlingen);Ernst-Reinhard;CDU/CSU;;;;;;;;;;;
-8;Behrens (Börde);Manfred;CDU/CSU;;;;;;;;;;;
-9;Bellmann;Veronika;CDU/CSU;;;;;;;;;;;
-10;Bergner;Christoph;CDU/CSU;;;;;;;;;;;
 11;Beyer;Peter;CDU/CSU;2.0;2.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 12;Bilger;Steffen;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-13;Binninger;Clemens;CDU/CSU;;;;;;;;;;;
-14;Bleser;Peter;CDU/CSU;;;;;;;;;;;
-15;Böhmer;Maria;CDU/CSU;;;;;;;;;;;
-16;Börnsen (Bönstrup);Wolfgang;CDU/CSU;;;;;;;;;;;
-17;Bosbach;Wolfgang;CDU/CSU;;;;;;;;;;;
-18;Brackmann;Norbert;CDU/CSU;;;;;;;;;;;
-19;Brähmig;Klaus;CDU/CSU;;;;;;;;;;;
-20;Brand;Michael;CDU/CSU;;;;;;;;;;;
 21;Brandl;Reinhard;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-22;Brandt;Helmut;CDU/CSU;;;;;;;;;;;
-23;Brauksiepe;Ralf;CDU/CSU;;;;;;;;;;;
 24;Braun;Helge;CDU/CSU;0.0;1.0;2.0;2.0;0.0;0.0;2.0;1.0;0.0;1.0;1.0
 25;Brehmer;Heike;CDU/CSU;0.0;1.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0
 26;Brinkhaus;Ralph;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
-27;Caesar;Cajus;CDU/CSU;;;;;;;;;;;
 28;Connemann;Gitta;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 29;Dobrindt;Alexander;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-30;Dörflinger;Thomas;CDU/CSU;;;;;;;;;;;
-31;Dött;Marie-Luise;CDU/CSU;;;;;;;;;;;
-32;Feist;Thomas;CDU/CSU;;;;;;;;;;;
 33;Ferlemann;Enak;CDU/CSU;0.0;1.0;2.0;2.0;2.0;2.0;2.0;1.0;0.0;1.0;1.0
-34;Fischbach;Ingrid;CDU/CSU;;;;;;;;;;;
-35;Fischer (Göttingen);Hartwig;CDU/CSU;;;;;;;;;;;
-36;Fischer (Hamburg);Dirk;CDU/CSU;;;;;;;;;;;
-37;Fischer (Karlsruhe-Land);Axel E.;CDU/CSU;;;;;;;;;;;
-38;Flachsbarth;Maria;CDU/CSU;;;;;;;;;;;
-39;Flosbach;Klaus-Peter;CDU/CSU;;;;;;;;;;;
-40;Frankenhauser;Herbert;CDU/CSU;;;;;;;;;;;
 41;Friedrich (Hof);Hans-Peter;CDU/CSU;0.0;2.0;0.0;0.0;0.0;0.0;2.0;1.0;2.0;2.0;2.0
 42;Frieser;Michael;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-43;Fritz;Erich G.;CDU/CSU;;;;;;;;;;;
-44;Fuchs;Michael;CDU/CSU;;;;;;;;;;;
-45;Fuchtel;Hans-Joachim;CDU/CSU;;;;;;;;;;;
-46;Funk;Alexander;CDU/CSU;;;;;;;;;;;
 47;Gädechens;Ingo;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-48;Gauweiler;Peter;CDU/CSU;;;;;;;;;;;
 49;Gebhart;Thomas;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-50;Geis;Norbert;CDU/CSU;;;;;;;;;;;
-51;Gerig;Alois;CDU/CSU;;;;;;;;;;;
-52;Gienger;Eberhard;CDU/CSU;;;;;;;;;;;
-53;Glos;Michael;CDU/CSU;;;;;;;;;;;
-54;Göppel;Josef;CDU/CSU;;;;;;;;;;;
-55;Götz;Peter;CDU/CSU;;;;;;;;;;;
-56;Götzer;Wolfgang;CDU/CSU;;;;;;;;;;;
-57;Granold;Ute;CDU/CSU;;;;;;;;;;;
-58;Grindel;Reinhard;CDU/CSU;;;;;;;;;;;
 59;Gröhe;Hermann;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 60;Grosse-Brömer;Michael;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 61;Grübel;Markus;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;2.0
@@ -65,1024 +22,254 @@
 63;Grütters;Monika;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 64;Gutting;Olav;CDU/CSU;0.0;1.0;2.0;2.0;0.0;0.0;2.0;1.0;0.0;1.0;1.0
 65;Hahn;Florian;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;2.0;2.0
-66;Harbarth;Stephan;CDU/CSU;;;;;;;;;;;
 67;Hardt;Jürgen;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-68;Hasselfeldt;Gerda;CDU/CSU;;;;;;;;;;;
-69;Heider;Matthias;CDU/CSU;;;;;;;;;;;
-70;Heiderich;Helmut;CDU/CSU;;;;;;;;;;;
 71;Heil;Mechthild;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-72;Heinen-Esser;Ursula;CDU/CSU;;;;;;;;;;;
-73;Heinrich;Frank;CDU/CSU;;;;;;;;;;;
-74;Henke;Rudolf;CDU/CSU;;;;;;;;;;;
 75;Hennrich;Michael;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 76;Heveling;Ansgar;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-77;Hinsken;Ernst;CDU/CSU;;;;;;;;;;;
-78;Hintze;Peter;CDU/CSU;;;;;;;;;;;
 79;Hirte;Christian;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-80;Hochbaum;Robert;CDU/CSU;;;;;;;;;;;
-81;Holmeier;Karl;CDU/CSU;;;;;;;;;;;
-82;Holzenkamp;Franz-Josef;CDU/CSU;;;;;;;;;;;
-83;Hörster;Joachim;CDU/CSU;;;;;;;;;;;
-84;Hübinger;Anette;CDU/CSU;;;;;;;;;;;
 85;Hüppe;Hubert;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 86;Jarzombek;Thomas;CDU/CSU;2.0;2.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
-87;Jasper;Dieter;CDU/CSU;;;;;;;;;;;
-88;Jung;Franz Josef;CDU/CSU;;;;;;;;;;;
-89;Jung (Konstanz);Andreas;CDU/CSU;;;;;;;;;;;
-90;Jüttner;Egon;CDU/CSU;;;;;;;;;;;
-91;Kalb;Bartholomäus;CDU/CSU;;;;;;;;;;;
-92;Kammer;Hans-Werner;CDU/CSU;;;;;;;;;;;
-93;Kampeter;Steffen;CDU/CSU;;;;;;;;;;;
-94;Karl;Alois;CDU/CSU;;;;;;;;;;;
-95;Kaster;Bernhard;CDU/CSU;;;;;;;;;;;
-96;Kauder;Volker;CDU/CSU;;;;;;;;;;;
-97;Kauder (Villingen-Schwenningen);Siegfried;CDU/CSU;;;;;;;;;;;
-98;Kaufmann;Stefan;CDU/CSU;;;;;;;;;;;
 99;Kiesewetter;Roderich;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-100;Klaeden;Eckart;CDU/CSU;;;;;;;;;;;
-101;Klamt;Ewa;CDU/CSU;;;;;;;;;;;
 102;Klein;Volkmar;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-103;Klimke;Jürgen;CDU/CSU;;;;;;;;;;;
 104;Knoerig;Axel;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 105;Koeppen;Jens;CDU/CSU;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;2.0;2.0
-106;Kolbe;Manfred;CDU/CSU;;;;;;;;;;;
-107;Koschorrek;Rolf;CDU/CSU;;;;;;;;;;;
-108;Koschyk;Hartmut;CDU/CSU;;;;;;;;;;;
-109;Kossendey;Thomas;CDU/CSU;;;;;;;;;;;
-110;Kretschmer;Michael;CDU/CSU;;;;;;;;;;;
 111;Krichbaum;Gunther;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;2.0
 112;Krings;Günter;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-113;Kruse;Rüdiger;CDU/CSU;;;;;;;;;;;
-114;Kudla;Bettina;CDU/CSU;;;;;;;;;;;
-115;Kues;Hermann;CDU/CSU;;;;;;;;;;;
-116;Lach;Günter;CDU/CSU;;;;;;;;;;;
-117;Lamers (Heidelberg);Karl A.;CDU/CSU;;;;;;;;;;;
-118;Lämmel;Andreas G.;CDU/CSU;;;;;;;;;;;
-119;Lammert;Norbert;CDU/CSU;;;;;;;;;;;
-120;Landgraf;Katharina;CDU/CSU;;;;;;;;;;;
 121;Lange;Ulrich;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-122;Lehmer;Max;CDU/CSU;;;;;;;;;;;
 123;Lehrieder;Paul;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-124;Leyen;Ursula;CDU/CSU;;;;;;;;;;;
-125;Liebing;Ingbert;CDU/CSU;;;;;;;;;;;
-126;Lietz;Matthias;CDU/CSU;;;;;;;;;;;
 127;Linnemann;Carsten;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 128;Lips;Patricia;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;2.0
 129;Luczak;Jan-Marco;CDU/CSU;0.0;1.0;0.0;1.0;2.0;2.0;2.0;1.0;0.0;1.0;1.0
 130;Ludwig;Daniela;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
-131;Luther;Michael;CDU/CSU;;;;;;;;;;;
-132;Maag;Karin;CDU/CSU;;;;;;;;;;;
-133;Maizière;Thomas;CDU/CSU;;;;;;;;;;;
-134;Marwitz;Hans-Georg;CDU/CSU;;;;;;;;;;;
 135;Mattfeldt;Andreas;CDU/CSU;2.0;2.0;0.0;0.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
 136;Mayer (Altötting);Stephan;CDU/CSU;2.0;2.0;0.0;1.0;0.0;0.0;1.0;1.0;2.0;2.0;2.0
 137;Meister;Michael;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-138;Merkel;Angela;CDU/CSU;;;;;;;;;;;
-139;Michalk;Maria;CDU/CSU;;;;;;;;;;;
-140;Michelbach;Hans;CDU/CSU;;;;;;;;;;;
 141;Middelberg;Mathias;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-142;Mißfelder;Philipp;CDU/CSU;;;;;;;;;;;
 143;Monstadt;Dietrich;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-144;Mortler;Marlene;CDU/CSU;;;;;;;;;;;
-145;Müller;Gerd;CDU/CSU;;;;;;;;;;;
 146;Müller (Erlangen);Stefan;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-147;Murmann;Philipp;CDU/CSU;;;;;;;;;;;
-148;Neumann (Bremen);Bernd;CDU/CSU;;;;;;;;;;;
-149;Noll;Michaela;CDU/CSU;;;;;;;;;;;
-150;Nüßlein;Georg;CDU/CSU;;;;;;;;;;;
-151;Obermeier;Franz;CDU/CSU;;;;;;;;;;;
-152;Oswald;Eduard;CDU/CSU;;;;;;;;;;;
 153;Otte;Henning;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-154;Paul;Michael;CDU/CSU;;;;;;;;;;;
-155;Pawelski;Rita;CDU/CSU;;;;;;;;;;;
-156;Petzold;Ulrich;CDU/CSU;;;;;;;;;;;
-157;Pfeiffer;Joachim;CDU/CSU;;;;;;;;;;;
-158;Pfeiffer;Sibylle;CDU/CSU;;;;;;;;;;;
-159;Philipp;Beatrix;CDU/CSU;;;;;;;;;;;
-160;Pofalla;Ronald;CDU/CSU;;;;;;;;;;;
-161;Poland;Christoph;CDU/CSU;;;;;;;;;;;
-162;Polenz;Ruprecht;CDU/CSU;;;;;;;;;;;
-163;Pols;Eckhard;CDU/CSU;;;;;;;;;;;
 164;Rachel;Thomas;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
 165;Ramsauer;Peter;CDU/CSU;0.0;1.0;2.0;2.0;0.0;0.0;2.0;1.0;2.0;2.0;2.0
-166;Rehberg;Eckhardt;CDU/CSU;;;;;;;;;;;
-167;Reiche (Potsdam);Katherina;CDU/CSU;;;;;;;;;;;
-168;Riebsamen;Lothar;CDU/CSU;;;;;;;;;;;
 169;Rief;Josef;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;2.0;1.0
-170;Riegert;Klaus;CDU/CSU;;;;;;;;;;;
-171;Riesenhuber;Heinz;CDU/CSU;;;;;;;;;;;
-172;Röring;Johannes;CDU/CSU;;;;;;;;;;;
 173;Röttgen;Norbert;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-174;Ruck;Christian;CDU/CSU;;;;;;;;;;;
 175;Rüddel;Erwin;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-176;Rupprecht (Weiden);Albert;CDU/CSU;;;;;;;;;;;
-177;Schäfer (Saalstadt);Anita;CDU/CSU;;;;;;;;;;;
 178;Schäuble;Wolfgang;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-179;Schavan;Annette;CDU/CSU;;;;;;;;;;;
 180;Scheuer;Andreas;CDU/CSU;0.0;1.0;2.0;2.0;0.0;0.0;1.0;1.0;0.0;2.0;2.0
-181;Schiewerling;Karl;CDU/CSU;;;;;;;;;;;
-182;Schindler;Norbert;CDU/CSU;;;;;;;;;;;
-183;Schipanski;Tankred;CDU/CSU;;;;;;;;;;;
-184;Schirmbeck;Georg;CDU/CSU;;;;;;;;;;;
-185;Schmidt (Fürth);Christian;CDU/CSU;;;;;;;;;;;
 186;Schnieder;Patrick;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-187;Schockenhoff;Andreas;CDU/CSU;;;;;;;;;;;
-188;Schön  (St. Wendel);Nadine;CDU/CSU;;;;;;;;;;;
-189;Schröder;Kristina;CDU/CSU;;;;;;;;;;;
-190;Schröder;Ole;CDU/CSU;;;;;;;;;;;
-191;Schulte-Drüggelte;Bernhard;CDU/CSU;;;;;;;;;;;
-192;Schummer;Uwe;CDU/CSU;;;;;;;;;;;
-193;Schuster (Weil am Rhein);Armin;CDU/CSU;;;;;;;;;;;
 194;Seif;Detlef;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-195;Selle;Johannes;CDU/CSU;;;;;;;;;;;
-196;Sendker;Reinhold;CDU/CSU;;;;;;;;;;;
-197;Sensburg;Patrick;CDU/CSU;;;;;;;;;;;
-198;Siebert;Bernd;CDU/CSU;;;;;;;;;;;
 199;Silberhorn;Thomas;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-200;Singhammer;Johannes;CDU/CSU;;;;;;;;;;;
 201;Spahn;Jens;CDU/CSU;0.0;1.0;2.0;2.0;0.0;0.0;1.0;1.0;0.0;2.0;2.0
-202;Stauche;Carola;CDU/CSU;;;;;;;;;;;
-203;Steffel;Frank;CDU/CSU;;;;;;;;;;;
-204;Steinbach;Erika;CDU/CSU;;;;;;;;;;;
 205;Stetten;Christian;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 206;Stier;Dieter;CDU/CSU;0.0;2.0;0.0;2.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 207;Storjohann;Gero;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 208;Stracke;Stephan;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 209;Straubinger;Max;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-210;Strenz;Karin;CDU/CSU;;;;;;;;;;;
-211;Strobl (Heilbronn);Thomas;CDU/CSU;;;;;;;;;;;
-212;Strothmann;Lena;CDU/CSU;;;;;;;;;;;
-213;Stübgen;Michael;CDU/CSU;;;;;;;;;;;
-214;Tauber;Peter;CDU/CSU;;;;;;;;;;;
 215;Tillmann;Antje;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-216;Uhl;Hans-Peter;CDU/CSU;;;;;;;;;;;
-217;Vaatz;Arnold;CDU/CSU;;;;;;;;;;;
-218;Vogel (Kleinsaara);Volkmar;CDU/CSU;;;;;;;;;;;
-219;Vogelsang;Stefanie;CDU/CSU;;;;;;;;;;;
-220;Voßhoff;Andrea Astrid;CDU/CSU;;;;;;;;;;;
-221;Wadephul;Johann;CDU/CSU;;;;;;;;;;;
 222;Wanderwitz;Marco;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;2.0;1.0;0.0;1.0;1.0
-223;Wegner;Kai;CDU/CSU;;;;;;;;;;;
-224;Weinberg (Hamburg);Marcus;CDU/CSU;;;;;;;;;;;
-225;Weiß (Emmendingen);Peter;CDU/CSU;;;;;;;;;;;
 226;Weiss (Wesel I);Sabine;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-227;Wellenreuther;Ingo;CDU/CSU;;;;;;;;;;;
-228;Wellmann;Karl-Georg;CDU/CSU;;;;;;;;;;;
-229;Wichtel;Peter;CDU/CSU;;;;;;;;;;;
 230;Widmann-Mauz;Annette;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 231;Willsch;Klaus-Peter;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 232;Winkelmeier-Becker;Elisabeth;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-233;Wöhrl;Dagmar G.;CDU/CSU;;;;;;;;;;;
-234;Zimmer;Matthias;CDU/CSU;;;;;;;;;;;
-235;Zöller;Wolfgang;CDU/CSU;;;;;;;;;;;
-236;Zylajew;Willi;CDU/CSU;;;;;;;;;;;
-237;Arndt-Brauer;Ingrid;SPD;;;;;;;;;;;
-238;Arnold;Rainer;SPD;;;;;;;;;;;
-239;Barchmann;Heinz-Joachim;SPD;;;;;;;;;;;
-240;Barnett;Doris;SPD;;;;;;;;;;;
-241;Bartels;Hans-Peter;SPD;;;;;;;;;;;
-242;Barthel;Klaus;SPD;;;;;;;;;;;
 243;Bartol;Sören;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 244;Bas;Bärbel;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
-245;Bätzing-Lichtenthäler;Sabine;SPD;;;;;;;;;;;
-246;Becker;Dirk;SPD;;;;;;;;;;;
-247;Beckmeyer;Uwe;SPD;;;;;;;;;;;
-248;Binding (Heidelberg);Lothar;SPD;;;;;;;;;;;
-249;Bollmann;Gerd;SPD;;;;;;;;;;;
-250;Brandner;Klaus;SPD;;;;;;;;;;;
-251;Brase;Willi;SPD;;;;;;;;;;;
-252;Brinkmann (Hildesheim);Bernhard;SPD;;;;;;;;;;;
-253;Bulmahn;Edelgard;SPD;;;;;;;;;;;
-254;Bülow;Marco;SPD;;;;;;;;;;;
-255;Burchardt;Ulla;SPD;;;;;;;;;;;
-256;Burkert;Martin;SPD;;;;;;;;;;;
-257;Crone;Petra;SPD;;;;;;;;;;;
-258;Danckert;Peter;SPD;;;;;;;;;;;
-259;Dörmann;Martin;SPD;;;;;;;;;;;
-260;Drobinski-Weiß;Elvira;SPD;;;;;;;;;;;
-261;Edathy;Sebastian;SPD;;;;;;;;;;;
-262;Egloff;Ingo;SPD;;;;;;;;;;;
-263;Ehrmann;Siegmund;SPD;;;;;;;;;;;
-264;Erler;Gernot;SPD;;;;;;;;;;;
-265;Ernstberger;Petra;SPD;;;;;;;;;;;
-266;Evers-Meyer;Karin;SPD;;;;;;;;;;;
-267;Ferner;Elke;SPD;;;;;;;;;;;
-268;Fograscher;Gabriele;SPD;;;;;;;;;;;
 269;Franke;Edgar;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-270;Freitag;Dagmar;SPD;;;;;;;;;;;
-271;Gabriel;Sigmar;SPD;;;;;;;;;;;
 272;Gerdes;Michael;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 273;Gerster;Martin;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-274;Gleicke;Iris;SPD;;;;;;;;;;;
-275;Gloser;Günter;SPD;;;;;;;;;;;
-276;Gottschalck;Ulrike;SPD;;;;;;;;;;;
-277;Graf (Rosenheim);Angelika;SPD;;;;;;;;;;;
 278;Griese;Kerstin;SPD;1.0;0.0;0.0;1.0;1.0;1.0;2.0;0.0;1.0;1.0;1.0
-279;Groneberg;Gabriele;SPD;;;;;;;;;;;
-280;Groß;Michael;SPD;;;;;;;;;;;
-281;Gunkel;Wolfgang;SPD;;;;;;;;;;;
-282;Hacker;Hans-Joachim;SPD;;;;;;;;;;;
 283;Hagedorn;Bettina;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-284;Hagemann;Klaus;SPD;;;;;;;;;;;
-285;Hartmann (Wackernheim);Michael;SPD;;;;;;;;;;;
 286;Heil (Peine);Hubertus;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;2.0
 287;Hellmich;Wolfgang;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;2.0
-288;Hempelmann;Rolf;SPD;;;;;;;;;;;
-289;Hendricks;Barbara;SPD;;;;;;;;;;;
-290;Herzog;Gustav;SPD;;;;;;;;;;;
-291;Hiller-Ohm;Gabriele;SPD;;;;;;;;;;;
-292;Hinz (Essen);Petra;SPD;;;;;;;;;;;
-293;Hofmann (Volkach);Frank;SPD;;;;;;;;;;;
-294;Högl;Eva;SPD;;;;;;;;;;;
-295;Humme;Christel;SPD;;;;;;;;;;;
 296;Juratovic;Josip;SPD;1.0;0.0;0.0;1.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0
 297;Kaczmarek;Oliver;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-298;Kahrs;Johannes;SPD;;;;;;;;;;;
-299;Kastner;Susanne;SPD;;;;;;;;;;;
-300;Kelber;Ulrich;SPD;;;;;;;;;;;
 301;Klingbeil;Lars;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-302;Klose;Hans-Ulrich;SPD;;;;;;;;;;;
 303;Kofler;Bärbel;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
-304;Kolbe (Leipzig);Daniela;SPD;;;;;;;;;;;
-305;Körper;Fritz Rudolf;SPD;;;;;;;;;;;
 306;Kramme;Anette;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-307;Krüger-Leißner;Angelika;SPD;;;;;;;;;;;
-308;Kumpf;Ute;SPD;;;;;;;;;;;
-309;Lambrecht;Christine;SPD;;;;;;;;;;;
-310;Lange (Backnang);Christian;SPD;;;;;;;;;;;
 311;Lauterbach;Karl;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-312;Lemme;Steffen-Claudio;SPD;;;;;;;;;;;
-313;Lischka;Burkhard;SPD;;;;;;;;;;;
-314;Lösekrug-Möller;Gabriele;SPD;;;;;;;;;;;
-315;Lühmann;Kirsten;SPD;;;;;;;;;;;
-316;Marks;Caren;SPD;;;;;;;;;;;
 317;Mast;Katja;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;2.0
-318;Mattheis;Hilde;SPD;;;;;;;;;;;
-319;Merkel (Berlin);Petra;SPD;;;;;;;;;;;
-320;Meßmer;Ullrich;SPD;;;;;;;;;;;
 321;Miersch;Matthias;SPD;2.0;2.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-322;Müntefering;Franz;SPD;;;;;;;;;;;
 323;Mützenich;Rolf;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;2.0;2.0
-324;Nahles;Andrea;SPD;;;;;;;;;;;
 325;Nietan;Dietmar;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
-326;Nink;Manfred;SPD;;;;;;;;;;;
-327;Oppermann;Thomas;SPD;;;;;;;;;;;
-328;Ortel;Holger;SPD;;;;;;;;;;;
 329;Özoguz;Aydan;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
-330;Paula;Heinz;SPD;;;;;;;;;;;
-331;Pflug;Johannes;SPD;;;;;;;;;;;
-332;Poß;Joachim;SPD;;;;;;;;;;;
-333;Priesmeier;Wilhelm;SPD;;;;;;;;;;;
-334;Pronold;Florian;SPD;;;;;;;;;;;
-335;Raabe;Sascha;SPD;;;;;;;;;;;
-336;Rawert;Mechthild;SPD;;;;;;;;;;;
-337;Rebmann;Stefan;SPD;;;;;;;;;;;
-338;Reichenbach;Gerold;SPD;;;;;;;;;;;
-339;Reimann;Carola;SPD;;;;;;;;;;;
 340;Rix;Sönke;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-341;Röspel;René;SPD;;;;;;;;;;;
-342;Rossmann;Ernst Dieter;SPD;;;;;;;;;;;
-343;Roth (Esslingen);Karin;SPD;;;;;;;;;;;
 344;Roth (Heringen);Michael;SPD;1.0;0.0;2.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-345;Rupprecht (Tuchenbach);Marlene;SPD;;;;;;;;;;;
-346;Sawade;Annette;SPD;;;;;;;;;;;
-347;Schaaf;Anton;SPD;;;;;;;;;;;
 348;Schäfer (Bochum);Axel;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;2.0
-349;Scheelen;Bernd;SPD;;;;;;;;;;;
-350;Schieder (Schwandorf);Marianne;SPD;;;;;;;;;;;
-351;Schieder (Weiden);Werner;SPD;;;;;;;;;;;
-352;Schmidt (Aachen);Ulla;SPD;;;;;;;;;;;
-353;Schmidt (Eisleben);Silvia;SPD;;;;;;;;;;;
 354;Schneider (Erfurt);Carsten;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-355;Schreiner;Ottmar;SPD;;;;;;;;;;;
-356;Schulz (Spandau);Swen;SPD;;;;;;;;;;;
-357;Schurer;Ewald;SPD;;;;;;;;;;;
 358;Schwabe;Frank;SPD;1.0;0.0;2.0;2.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0
-359;Schwanholz;Martin;SPD;;;;;;;;;;;
-360;Schwanitz;Rolf;SPD;;;;;;;;;;;
 361;Schwartze;Stefan;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 362;Schwarzelühr-Sutter;Rita;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-363;Sieling;Carsten;SPD;;;;;;;;;;;
-364;Steffen;Sonja;SPD;;;;;;;;;;;
-365;Steinbrück;Peer;SPD;;;;;;;;;;;
-366;Steinmeier;Frank-Walter;SPD;;;;;;;;;;;
-367;Strässer;Christoph;SPD;;;;;;;;;;;
-368;Tack;Kerstin;SPD;;;;;;;;;;;
-369;Thierse;Wolfgang;SPD;;;;;;;;;;;
-370;Thönnes;Franz;SPD;;;;;;;;;;;
-371;Tiefensee;Wolfgang;SPD;;;;;;;;;;;
-372;Veit;Rüdiger;SPD;;;;;;;;;;;
-373;Vogt;Ute;SPD;;;;;;;;;;;
-374;Volkmer;Marlies;SPD;;;;;;;;;;;
-375;Wicklein;Andrea;SPD;;;;;;;;;;;
-376;Wieczorek-Zeul;Heidemarie;SPD;;;;;;;;;;;
-377;Wiefelspütz;Dieter;SPD;;;;;;;;;;;
-378;Wolff (Wolmirstedt);Waltraud;SPD;;;;;;;;;;;
-379;Zapf;Uta;SPD;;;;;;;;;;;
-380;Ziegler;Dagmar;SPD;;;;;;;;;;;
-381;Zöllmer;Manfred;SPD;;;;;;;;;;;
-382;Zypries;Brigitte;SPD;;;;;;;;;;;
-383;Ackermann;Jens;FDP;;;;;;;;;;;
-384;Ahrendt;Christian;FDP;;;;;;;;;;;
 385;Aschenberg-Dugnus;Christine;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-386;Bahr (Münster);Daniel;FDP;;;;;;;;;;;
-387;Bernschneider;Florian;FDP;;;;;;;;;;;
-388;Blumenthal;Sebastian;FDP;;;;;;;;;;;
-389;Bögel;Claudia;FDP;;;;;;;;;;;
-390;Bracht-Bendt;Nicole;FDP;;;;;;;;;;;
-391;Breil;Klaus;FDP;;;;;;;;;;;
-392;Brüderle;Rainer;FDP;;;;;;;;;;;
-393;Brunkhorst;Angelika;FDP;;;;;;;;;;;
-394;Burgbacher;Ernst;FDP;;;;;;;;;;;
 395;Buschmann;Marco;FDP;1.0;0.0;2.0;2.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-396;Canel;Sylvia;FDP;;;;;;;;;;;
-397;Daub;Helga;FDP;;;;;;;;;;;
-398;Deutschmann;Reiner;FDP;;;;;;;;;;;
 399;Djir-Sarai;Bijan;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
-400;Döring;Patrick;FDP;;;;;;;;;;;
-401;Dyckmans;Mechthild;FDP;;;;;;;;;;;
-402;Ehrenberg;Hans-Werner;FDP;;;;;;;;;;;
-403;Erdel;Rainer;FDP;;;;;;;;;;;
-404;Essen;Jörg;FDP;;;;;;;;;;;
-405;Flach;Ulrike;FDP;;;;;;;;;;;
 406;Fricke;Otto;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-407;Geisen;Edmund Peter;FDP;;;;;;;;;;;
-408;Gerhardt;Wolfgang;FDP;;;;;;;;;;;
-409;Goldmann;Hans-Michael;FDP;;;;;;;;;;;
-410;Golombeck;Heinz;FDP;;;;;;;;;;;
-411;Gruß;Miriam;FDP;;;;;;;;;;;
-412;Günther (Plauen);Joachim;FDP;;;;;;;;;;;
-413;Happach-Kasan;Christel;FDP;;;;;;;;;;;
-414;Haustein;Heinz-Peter;FDP;;;;;;;;;;;
 415;Höferlin;Manuel;FDP;2.0;2.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-416;Hoff;Elke;FDP;;;;;;;;;;;
-417;Homburger;Birgit;FDP;;;;;;;;;;;
-418;Kamp;Heiner;FDP;;;;;;;;;;;
-419;Kauch;Michael;FDP;;;;;;;;;;;
-420;Knopek;Lutz;FDP;;;;;;;;;;;
 421;Kober;Pascal;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-422;Kolb;Heinrich L.;FDP;;;;;;;;;;;
-423;Kopp;Gudrun;FDP;;;;;;;;;;;
-424;Koppelin;Jürgen;FDP;;;;;;;;;;;
-425;Körber;Sebastian;FDP;;;;;;;;;;;
-426;Krestel;Holger;FDP;;;;;;;;;;;
-427;Kurth (Kyffhäuser);Patrick;FDP;;;;;;;;;;;
-428;Lanfermann;Heinz;FDP;;;;;;;;;;;
-429;Laurischk;Sibylle;FDP;;;;;;;;;;;
-430;Leibrecht;Harald;FDP;;;;;;;;;;;
-431;Leutheusser-Schnarrenberger;Sabine;FDP;;;;;;;;;;;
 432;Lindemann;Lars;FDP;1.0;0.0;0.0;1.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0
-433;Lindner (Berlin);Martin;FDP;;;;;;;;;;;
-434;Link (Heilbronn);Michael;FDP;;;;;;;;;;;
-435;Lotter;Erwin;FDP;;;;;;;;;;;
 436;Luksic;Oliver;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-437;Meierhofer;Horst;FDP;;;;;;;;;;;
-438;Meinhardt;Patrick;FDP;;;;;;;;;;;
-439;Molitor;Gabriele;FDP;;;;;;;;;;;
-440;Mücke;Jan;FDP;;;;;;;;;;;
-441;Müller (Aachen);Petra;FDP;;;;;;;;;;;
-442;Müller-Sönksen;Burkhardt;FDP;;;;;;;;;;;
-443;Neumann (Lausitz);Martin;FDP;;;;;;;;;;;
-444;Niebel;Dirk;FDP;;;;;;;;;;;
-445;Otto (Frankfurt);Hans-Joachim;FDP;;;;;;;;;;;
-446;Pieper;Cornelia;FDP;;;;;;;;;;;
-447;Piltz;Gisela;FDP;;;;;;;;;;;
-448;Polheim;Jörg;FDP;;;;;;;;;;;
-449;Ratjen-Damerau;Christiane;FDP;;;;;;;;;;;
-450;Reinemund;Birgit;FDP;;;;;;;;;;;
-451;Röhlinger;Peter;FDP;;;;;;;;;;;
-452;Ruppert;Stefan;FDP;;;;;;;;;;;
-453;Sänger;Björn;FDP;;;;;;;;;;;
 454;Schäffler;Frank;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-455;Schnurr;Christoph;FDP;;;;;;;;;;;
-456;Schulz;Jimmy;FDP;;;;;;;;;;;
-457;Schuster;Marina;FDP;;;;;;;;;;;
-458;Schweickert;Erik;FDP;;;;;;;;;;;
-459;Simmling;Werner;FDP;;;;;;;;;;;
 460;Skudelny;Judith;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;2.0
-461;Solms;Hermann Otto;FDP;;;;;;;;;;;
-462;Spatz;Joachim;FDP;;;;;;;;;;;
-463;Stadler;Max;FDP;;;;;;;;;;;
-464;Staffeldt;Torsten Heiko;FDP;;;;;;;;;;;
-465;Stinner;Rainer;FDP;;;;;;;;;;;
 466;Thomae;Stephan;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 467;Todtenhausen;Manfred;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
 468;Toncar;Florian;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;1.0;1.0;1.0
-469;Tören;Serkan;FDP;;;;;;;;;;;
-470;Vogel (Lüdenscheid);Johannes;FDP;;;;;;;;;;;
-471;Volk;Daniel;FDP;;;;;;;;;;;
-472;Westerwelle;Guido;FDP;;;;;;;;;;;
-473;Winterstein;Claudia;FDP;;;;;;;;;;;
 474;Wissing;Volker;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;1.0;1.0;1.0
-475;Wolff (Rems-Murr);Hartfrid;FDP;;;;;;;;;;;
-476;Aken;Jan;DIE LINKE;;;;;;;;;;;
-477;Alpers;Agnes;DIE LINKE;;;;;;;;;;;
-478;Bartsch;Dietmar;DIE LINKE;;;;;;;;;;;
-479;Behrens;Herbert;DIE LINKE;;;;;;;;;;;
-480;Binder;Karin;DIE LINKE;;;;;;;;;;;
-481;Birkwald;Matthias W.;DIE LINKE;;;;;;;;;;;
-482;Bluhm;Heidrun;DIE LINKE;;;;;;;;;;;
-483;Bockhahn;Steffen;DIE LINKE;;;;;;;;;;;
-484;Buchholz;Christine;DIE LINKE;;;;;;;;;;;
-485;Bulling-Schröter;Eva;DIE LINKE;;;;;;;;;;;
-486;Bunge;Martina;DIE LINKE;;;;;;;;;;;
-487;Claus;Roland;DIE LINKE;;;;;;;;;;;
-488;Dagdelen;Sevim;DIE LINKE;;;;;;;;;;;
-489;Dehm;Diether;DIE LINKE;;;;;;;;;;;
-490;Dittrich;Heidrun;DIE LINKE;;;;;;;;;;;
-491;Dreibus;Werner;DIE LINKE;;;;;;;;;;;
-492;Enkelmann;Dagmar;DIE LINKE;;;;;;;;;;;
-493;Ernst;Klaus;DIE LINKE;;;;;;;;;;;
-494;Gehrcke;Wolfgang;DIE LINKE;;;;;;;;;;;
-495;Gohlke;Nicole;DIE LINKE;;;;;;;;;;;
-496;Golze;Diana;DIE LINKE;;;;;;;;;;;
-497;Groth;Annette;DIE LINKE;;;;;;;;;;;
-498;Gysi;Gregor;DIE LINKE;;;;;;;;;;;
-499;Hänsel;Heike;DIE LINKE;;;;;;;;;;;
-500;Hein;Rosemarie;DIE LINKE;;;;;;;;;;;
-501;Höger;Inge;DIE LINKE;;;;;;;;;;;
-502;Höll;Barbara;DIE LINKE;;;;;;;;;;;
-503;Hunko;Andrej;DIE LINKE;;;;;;;;;;;
-504;Jelpke;Ulla;DIE LINKE;;;;;;;;;;;
-505;Jochimsen;Lukrezia;DIE LINKE;;;;;;;;;;;
-506;Kipping;Katja;DIE LINKE;;;;;;;;;;;
-507;Koch;Harald;DIE LINKE;;;;;;;;;;;
-508;Korte;Jan;DIE LINKE;;;;;;;;;;;
-509;Krellmann;Jutta;DIE LINKE;;;;;;;;;;;
-510;Kunert;Katrin;DIE LINKE;;;;;;;;;;;
-511;Lay;Caren;DIE LINKE;;;;;;;;;;;
-512;Leidig;Sabine;DIE LINKE;;;;;;;;;;;
-513;Lenkert;Ralph;DIE LINKE;;;;;;;;;;;
-514;Leutert;Michael;DIE LINKE;;;;;;;;;;;
-515;Liebich;Stefan;DIE LINKE;;;;;;;;;;;
-516;Lötzer;Ulla;DIE LINKE;;;;;;;;;;;
-517;Lötzsch;Gesine;DIE LINKE;;;;;;;;;;;
-518;Lutze;Thomas;DIE LINKE;;;;;;;;;;;
-519;Maurer;Ulrich;DIE LINKE;;;;;;;;;;;
-520;Menzner;Dorothee;DIE LINKE;;;;;;;;;;;
-521;Möhring;Cornelia;DIE LINKE;;;;;;;;;;;
-522;Möller;Kornelia;DIE LINKE;;;;;;;;;;;
-523;Movassat;Niema;DIE LINKE;;;;;;;;;;;
-524;Neskovic;Wolfgang;DIE LINKE;;;;;;;;;;;
-525;Nord;Thomas;DIE LINKE;;;;;;;;;;;
-526;Pau;Petra;DIE LINKE;;;;;;;;;;;
-527;Petermann;Jens;DIE LINKE;;;;;;;;;;;
-528;Pitterle;Richard;DIE LINKE;;;;;;;;;;;
-529;Ploetz;Yvonne;DIE LINKE;;;;;;;;;;;
-530;Remmers;Ingrid;DIE LINKE;;;;;;;;;;;
-531;Schäfer (Köln);Paul;DIE LINKE;;;;;;;;;;;
-532;Schlecht;Michael;DIE LINKE;;;;;;;;;;;
-533;Seifert;Ilja;DIE LINKE;;;;;;;;;;;
-534;Senger-Schäfer;Kathrin;DIE LINKE;;;;;;;;;;;
-535;Sharma;Raju;DIE LINKE;;;;;;;;;;;
-536;Sitte;Petra;DIE LINKE;;;;;;;;;;;
-537;Steinke;Kersten;DIE LINKE;;;;;;;;;;;
-538;Stüber;Sabine;DIE LINKE;;;;;;;;;;;
-539;Süßmair;Alexander;DIE LINKE;;;;;;;;;;;
-540;Tackmann;Kirsten;DIE LINKE;;;;;;;;;;;
-541;Tempel;Frank;DIE LINKE;;;;;;;;;;;
-542;Troost;Axel;DIE LINKE;;;;;;;;;;;
-543;Ulrich;Alexander;DIE LINKE;;;;;;;;;;;
-544;Vogler;Kathrin;DIE LINKE;;;;;;;;;;;
-545;Voß;Johanna;DIE LINKE;;;;;;;;;;;
-546;Wagenknecht;Sahra;DIE LINKE;;;;;;;;;;;
-547;Wawzyniak;Halina;DIE LINKE;;;;;;;;;;;
-548;Weinberg;Harald;DIE LINKE;;;;;;;;;;;
-549;Werner;Katrin;DIE LINKE;;;;;;;;;;;
-550;Wunderlich;Jörn;DIE LINKE;;;;;;;;;;;
-551;Zimmermann;Sabine;DIE LINKE;;;;;;;;;;;
-552;Andreae;Kerstin;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-553;Beck (Bremen);Marieluise;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-554;Beck (Köln);Volker;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-555;Behm;Cornelia;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-556;Bender;Birgitt;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-557;Brugger;Agnes;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-558;Cramon-Taubadel;Viola;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-559;Deligöz;Ekin;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-560;Dörner;Katja;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-561;Ebner;Harald;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-562;Fell;Hans-Josef;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-563;Gambke;Thomas;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-564;Gehring;Kai;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-565;Göring-Eckardt;Katrin;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-566;Haßelmann;Britta;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-567;Herlitzius;Bettina;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-568;Hinz (Herborn);Priska;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-569;Hofreiter;Anton;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-570;Höhn;Bärbel;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-571;Hönlinger;Ingrid;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-572;Hoppe;Thilo;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-573;Kekeritz;Uwe;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-574;Keul;Katja;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-575;Kilic;Memet;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-576;Kindler;Sven-Christian;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-577;Klein-Schmeink;Maria;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-578;Koczy;Ute;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-579;Koenigs;Tom;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-580;Kotting-Uhl;Sylvia;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-581;Krischer;Oliver;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-582;Krumwiede;Agnes;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-583;Kuhn;Fritz;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-584;Kühn;Stephan;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-585;Künast;Renate;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-586;Kurth;Markus;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-587;Kurth (Quedlinburg);Undine;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-588;Lazar;Monika;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-589;Lindner;Tobias;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-590;Maisch;Nicole;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-591;Montag;Jerzy;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-592;Müller (Köln);Kerstin;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-593;Müller-Gemmeke;Beate;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-594;Notz;Konstantin;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-595;Nouripour;Omid;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-596;Ostendorff;Friedrich;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-597;Ott;Hermann E.;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-598;Paus;Lisa;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-599;Pothmer;Brigitte;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-600;Rößner;Tabea;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-601;Roth (Augsburg);Claudia;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-602;Sager;Krista;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-603;Sarrazin;Manuel;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-604;Scharfenberg;Elisabeth;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-605;Schick;Gerhard;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-606;Schmidt;Frithjof;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-607;Schneider;Ulrich;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-608;Steiner;Dorothea;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-609;Strengmann-Kuhn;Wolfgang;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-610;Ströbele;Hans-Christian;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-611;Terpe;Harald;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-612;Tressel;Markus;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-613;Trittin;Jürgen;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-614;Wagner;Daniela;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-615;Wagner (Schleswig);Arfst;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-616;Walter-Rosenheimer;Beate;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-617;Wieland;Wolfgang;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-618;Wilms;Valerie;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-619;Winkler;Josef Philip;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-620;Ott;Hermann;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-621;Neskovic;Wolfgang;fraktionslose;;;;;;;;;;;
 622;Reinhold;Hagen;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-623;Kickbusch;Susanne;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-624;Kieckbusch;Susanne;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-625;Klug;Astrid;SPD;;;;;;;;;;;
-626;Kauder (Villingen-Schw.);Siegfried;CDU/CSU;;;;;;;;;;;
-627;Schön (St. Wendel);Nadine;CDU/CSU;;;;;;;;;;;
-628;Schröder (Wiesbaden);Kristina;CDU/CSU;;;;;;;;;;;
-629;Drexler;Gerhard Johann;FDP;;;;;;;;;;;
-630;Staffeldt;Torsten;FDP;;;;;;;;;;;
-631;Aken;Jan;DIE LINKE.;;;;;;;;;;;
-632;Alpers;Agnes;DIE LINKE.;;;;;;;;;;;
 633;Bartsch;Dietmar;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-634;Behrens;Herbert;DIE LINKE.;;;;;;;;;;;
-635;Binder;Karin;DIE LINKE.;;;;;;;;;;;
 636;Birkwald;Matthias W.;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0
-637;Bluhm;Heidrun;DIE LINKE.;;;;;;;;;;;
-638;Bockhahn;Steffen;DIE LINKE.;;;;;;;;;;;
-639;Buchholz;Christine;DIE LINKE.;;;;;;;;;;;
-640;Bulling-Schröter;Eva;DIE LINKE.;;;;;;;;;;;
-641;Bunge;Martina;DIE LINKE.;;;;;;;;;;;
-642;Claus;Roland;DIE LINKE.;;;;;;;;;;;
 643;Dagdelen;Sevim;DIE LINKE.;2.0;0.0;2.0;2.0;2.0;2.0;2.0;2.0;0.0;0.0;2.0
-644;Dehm;Diether;DIE LINKE.;;;;;;;;;;;
-645;Dittrich;Heidrun;DIE LINKE.;;;;;;;;;;;
-646;Dreibus;Werner;DIE LINKE.;;;;;;;;;;;
-647;Enkelmann;Dagmar;DIE LINKE.;;;;;;;;;;;
 648;Ernst;Klaus;DIE LINKE.;2.0;0.0;1.0;2.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0
-649;Gehrcke;Wolfgang;DIE LINKE.;;;;;;;;;;;
 650;Gohlke;Nicole;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0
-651;Golze;Diana;DIE LINKE.;;;;;;;;;;;
-652;Groth;Annette;DIE LINKE.;;;;;;;;;;;
 653;Gysi;Gregor;DIE LINKE.;2.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-654;Hänsel;Heike;DIE LINKE.;;;;;;;;;;;
-655;Hein;Rosemarie;DIE LINKE.;;;;;;;;;;;
-656;Höger;Inge;DIE LINKE.;;;;;;;;;;;
-657;Höll;Barbara;DIE LINKE.;;;;;;;;;;;
 658;Hunko;Andrej;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-659;Jelpke;Ulla;DIE LINKE.;;;;;;;;;;;
-660;Jochimsen;Lukrezia;DIE LINKE.;;;;;;;;;;;
 661;Kipping;Katja;DIE LINKE.;2.0;0.0;2.0;2.0;;;;;;;
-662;Koch;Harald;DIE LINKE.;;;;;;;;;;;
 663;Korte;Jan;DIE LINKE.;2.0;2.0;2.0;2.0;2.0;2.0;2.0;0.0;0.0;0.0;2.0
-664;Krellmann;Jutta;DIE LINKE.;;;;;;;;;;;
-665;Kunert;Katrin;DIE LINKE.;;;;;;;;;;;
 666;Lay;Caren;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-667;Leidig;Sabine;DIE LINKE.;;;;;;;;;;;
 668;Lenkert;Ralph;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-669;Leutert;Michael;DIE LINKE.;;;;;;;;;;;
-670;Liebich;Stefan;DIE LINKE.;;;;;;;;;;;
-671;Lötzer;Ulla;DIE LINKE.;;;;;;;;;;;
 672;Lötzsch;Gesine;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
 673;Lutze;Thomas;DIE LINKE.;2.0;0.0;1.0;2.0;2.0;2.0;2.0;0.0;0.0;0.0;0.0
-674;Maurer;Ulrich;DIE LINKE.;;;;;;;;;;;
-675;Menzner;Dorothee;DIE LINKE.;;;;;;;;;;;
 676;Möhring;Cornelia;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;2.0;2.0;2.0;2.0
-677;Möller;Kornelia;DIE LINKE.;;;;;;;;;;;
-678;Movassat;Niema;DIE LINKE.;;;;;;;;;;;
-679;Nord;Thomas;DIE LINKE.;;;;;;;;;;;
 680;Pau;Petra;DIE LINKE.;2.0;0.0;1.0;2.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0
-681;Petermann;Jens;DIE LINKE.;;;;;;;;;;;
-682;Pitterle;Richard;DIE LINKE.;;;;;;;;;;;
-683;Ploetz;Yvonne;DIE LINKE.;;;;;;;;;;;
-684;Remmers;Ingrid;DIE LINKE.;;;;;;;;;;;
-685;Schäfer (Köln);Paul;DIE LINKE.;;;;;;;;;;;
-686;Schlecht;Michael;DIE LINKE.;;;;;;;;;;;
-687;Seifert;Ilja;DIE LINKE.;;;;;;;;;;;
-688;Senger-Schäfer;Kathrin;DIE LINKE.;;;;;;;;;;;
-689;Sharma;Raju;DIE LINKE.;;;;;;;;;;;
 690;Sitte;Petra;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-691;Steinke;Kersten;DIE LINKE.;;;;;;;;;;;
-692;Stüber;Sabine;DIE LINKE.;;;;;;;;;;;
-693;Süßmair;Alexander;DIE LINKE.;;;;;;;;;;;
-694;Tackmann;Kirsten;DIE LINKE.;;;;;;;;;;;
-695;Tempel;Frank;DIE LINKE.;;;;;;;;;;;
-696;Troost;Axel;DIE LINKE.;;;;;;;;;;;
 697;Ulrich;Alexander;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;2.0;2.0;2.0;2.0;2.0
 698;Vogler;Kathrin;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-699;Voß;Johanna;DIE LINKE.;;;;;;;;;;;
 700;Wagenknecht;Sahra;DIE LINKE.;2.0;0.0;1.0;0.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0
-701;Wawzyniak;Halina;DIE LINKE.;;;;;;;;;;;
-702;Weinberg;Harald;DIE LINKE.;;;;;;;;;;;
-703;Werner;Katrin;DIE LINKE.;;;;;;;;;;;
-704;Wunderlich;Jörn;DIE LINKE.;;;;;;;;;;;
-705;Zimmermann;Sabine;DIE LINKE.;;;;;;;;;;;
-706;Andreae;Kerstin;BÜ90/GR;;;;;;;;;;;
-707;Beck (Bremen);Marieluise;BÜ90/GR;;;;;;;;;;;
-708;Beck (Köln);Volker;BÜ90/GR;;;;;;;;;;;
-709;Behm;Cornelia;BÜ90/GR;;;;;;;;;;;
-710;Bender;Birgitt;BÜ90/GR;;;;;;;;;;;
-711;Brugger;Agnes;BÜ90/GR;;;;;;;;;;;
-712;Cramon-Taubadel;Viola;BÜ90/GR;;;;;;;;;;;
 713;Deligöz;Ekin;BÜ90/GR;1.0;0.0;0.0;1.0;2.0;2.0;1.0;0.0;1.0;1.0;1.0
-714;Dörner;Katja;BÜ90/GR;;;;;;;;;;;
 715;Ebner;Harald;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-716;Fell;Hans-Josef;BÜ90/GR;;;;;;;;;;;
-717;Gambke;Thomas;BÜ90/GR;;;;;;;;;;;
 718;Gehring;Kai;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 719;Göring-Eckardt;Katrin;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;2.0;1.0;0.0;1.0;2.0;1.0
 720;Haßelmann;Britta;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-721;Herlitzius;Bettina;BÜ90/GR;;;;;;;;;;;
-722;Hinz (Herborn);Priska;BÜ90/GR;;;;;;;;;;;
 723;Hofreiter;Anton;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;1.0;1.0;1.0
-724;Höhn;Bärbel;BÜ90/GR;;;;;;;;;;;
-725;Hönlinger;Ingrid;BÜ90/GR;;;;;;;;;;;
-726;Hoppe;Thilo;BÜ90/GR;;;;;;;;;;;
-727;Kekeritz;Uwe;BÜ90/GR;;;;;;;;;;;
 728;Keul;Katja;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-729;Kieckbusch;Susanne;BÜ90/GR;;;;;;;;;;;
-730;Kilic;Memet;BÜ90/GR;;;;;;;;;;;
 731;Kindler;Sven-Christian;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 732;Klein-Schmeink;Maria;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-733;Koczy;Ute;BÜ90/GR;;;;;;;;;;;
-734;Koenigs;Tom;BÜ90/GR;;;;;;;;;;;
-735;Kotting-Uhl;Sylvia;BÜ90/GR;;;;;;;;;;;
 736;Krischer;Oliver;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-737;Krumwiede;Agnes;BÜ90/GR;;;;;;;;;;;
-738;Kühn;Stephan;BÜ90/GR;;;;;;;;;;;
 739;Künast;Renate;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 740;Kurth;Markus;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-741;Kurth (Quedlinburg);Undine;BÜ90/GR;;;;;;;;;;;
-742;Lazar;Monika;BÜ90/GR;;;;;;;;;;;
 743;Lindner;Tobias;BÜ90/GR;1.0;0.0;0.0;1.0;2.0;2.0;2.0;0.0;2.0;1.0;1.0
-744;Maisch;Nicole;BÜ90/GR;;;;;;;;;;;
-745;Montag;Jerzy;BÜ90/GR;;;;;;;;;;;
-746;Müller (Köln);Kerstin;BÜ90/GR;;;;;;;;;;;
 747;Müller-Gemmeke;Beate;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 748;Notz;Konstantin;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 749;Nouripour;Omid;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-750;Ostendorff;Friedrich;BÜ90/GR;;;;;;;;;;;
-751;Ott;Hermann E.;BÜ90/GR;;;;;;;;;;;
 752;Paus;Lisa;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-753;Pothmer;Brigitte;BÜ90/GR;;;;;;;;;;;
 754;Rößner;Tabea;BÜ90/GR;1.0;0.0;2.0;2.0;1.0;1.0;1.0;0.0;2.0;1.0;1.0
 755;Roth (Augsburg);Claudia;BÜ90/GR;1.0;0.0;2.0;2.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-756;Sager;Krista;BÜ90/GR;;;;;;;;;;;
-757;Sarrazin;Manuel;BÜ90/GR;;;;;;;;;;;
-758;Scharfenberg;Elisabeth;BÜ90/GR;;;;;;;;;;;
-759;Schick;Gerhard;BÜ90/GR;;;;;;;;;;;
-760;Schmidt;Frithjof;BÜ90/GR;;;;;;;;;;;
-761;Schneider;Ulrich;BÜ90/GR;;;;;;;;;;;
-762;Steiner;Dorothea;BÜ90/GR;;;;;;;;;;;
 763;Strengmann-Kuhn;Wolfgang;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-764;Ströbele;Hans-Christian;BÜ90/GR;;;;;;;;;;;
-765;Terpe;Harald;BÜ90/GR;;;;;;;;;;;
-766;Tressel;Markus;BÜ90/GR;;;;;;;;;;;
 767;Trittin;Jürgen;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;2.0;2.0
-768;Wagner;Daniela;BÜ90/GR;;;;;;;;;;;
-769;Wagner (Schleswig);Arfst;BÜ90/GR;;;;;;;;;;;
 770;Walter-Rosenheimer;Beate;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-771;Wieland;Wolfgang;BÜ90/GR;;;;;;;;;;;
-772;Wilms;Valerie;BÜ90/GR;;;;;;;;;;;
-773;Winkler;Josef Philip;BÜ90/GR;;;;;;;;;;;
-774;Neskovic;Wolfgang;fraktionslos;;;;;;;;;;;
-775;Drexler;Gerhard;FDP;;;;;;;;;;;
 776;Albani;Stephan;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-777;Albsteiger;Katrin;CDU/CSU;;;;;;;;;;;
 778;Auernhammer;Artur;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;2.0;1.0;0.0;1.0;1.0
-779;Bartz;Julia;CDU/CSU;;;;;;;;;;;
-780;Beermann;Maik;CDU/CSU;;;;;;;;;;;
-781;Benning;Sybille;CDU/CSU;;;;;;;;;;;
-782;Berghegger;Andre;CDU/CSU;;;;;;;;;;;
-783;Bertram;Ute;CDU/CSU;;;;;;;;;;;
-784;Dinges-Dierig;Alexandra;CDU/CSU;;;;;;;;;;;
 785;Donth;Michael;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 786;Durz;Hansjörg;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-787;Eckenbach;Jutta;CDU/CSU;;;;;;;;;;;
-788;Fabritius;Bernd;CDU/CSU;;;;;;;;;;;
 789;Färber;Hermann;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 790;Feiler;Uwe;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 791;Frei;Thorsten;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-792;Freudenstein;Astrid;CDU/CSU;;;;;;;;;;;
-793;Giousouf;Cemile;CDU/CSU;;;;;;;;;;;
-794;Groden-Kranich;Ursula;CDU/CSU;;;;;;;;;;;
-795;Gröhler;Klaus-Dieter;CDU/CSU;;;;;;;;;;;
-796;Grotelüschen;Astrid;CDU/CSU;;;;;;;;;;;
 797;Grundmann;Oliver;CDU/CSU;2.0;2.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;2.0;1.0
-798;Gundelach;Herlind;CDU/CSU;;;;;;;;;;;
 799;Güntzler;Fritz;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
 800;Haase;Christian;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 801;Hauer;Matthias;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-802;Hauptmann;Mark;CDU/CSU;;;;;;;;;;;
 803;Heck;Stefan;CDU/CSU;0.0;1.0;0.0;1.0;2.0;2.0;2.0;1.0;0.0;1.0;2.0
-804;Heinrich (Chemnitz);Frank;CDU/CSU;;;;;;;;;;;
 805;Helfrich;Mark;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
-806;Heller;Uda;CDU/CSU;;;;;;;;;;;
-807;Hellmuth;Jörg;CDU/CSU;;;;;;;;;;;
-808;Hirte;Heribert;CDU/CSU;;;;;;;;;;;
 809;Hoffmann;Alexander;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
 810;Hoppenstedt;Hendrik;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-811;Horb;Margaret;CDU/CSU;;;;;;;;;;;
-812;Hornhues;Bettina;CDU/CSU;;;;;;;;;;;
-813;Huber;Charles M.;CDU/CSU;;;;;;;;;;;
 814;Irlstorfer;Erich;CDU/CSU;2.0;2.0;2.0;2.0;2.0;2.0;2.0;1.0;0.0;1.0;1.0
-815;Jörrißen;Sylvia;CDU/CSU;;;;;;;;;;;
-816;Jung;Xaver;CDU/CSU;;;;;;;;;;;
-817;Kanitz;Steffen;CDU/CSU;;;;;;;;;;;
 818;Karliczek;Anja;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 819;Kippels;Georg;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 820;Koob;Markus;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 821;Körber;Carsten;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-822;Kovac;Kordula;CDU/CSU;;;;;;;;;;;
-823;Kühne;Roy;CDU/CSU;;;;;;;;;;;
-824;Lagosky;Uwe;CDU/CSU;;;;;;;;;;;
-825;Lamers;Karl A.;CDU/CSU;;;;;;;;;;;
-826;Lanzinger;Barbara;CDU/CSU;;;;;;;;;;;
 827;Launert;Silke;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;2.0;1.0;0.0;1.0;1.0
 828;Leikert;Katja;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-829;Lengsfeld;Philipp;CDU/CSU;;;;;;;;;;;
 830;Lenz;Andreas;CDU/CSU;0.0;2.0;2.0;2.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
-831;Lerchenfeld;Philipp Graf;CDU/CSU;;;;;;;;;;;
-832;Lezius;Antje;CDU/CSU;;;;;;;;;;;
 833;Lindholz;Andrea;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-834;Lorenz;Wilfried;CDU/CSU;;;;;;;;;;;
-835;Lücking-Michel;Claudia;CDU/CSU;;;;;;;;;;;
 836;Magwas;Yvonne;CDU/CSU;2.0;2.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
-837;Mahlberg;Thomas;CDU/CSU;;;;;;;;;;;
-838;Manderla;Gisela;CDU/CSU;;;;;;;;;;;
-839;Marschall;Matern;CDU/CSU;;;;;;;;;;;
-840;Meier;Reiner;CDU/CSU;;;;;;;;;;;
 841;Metzler;Jan;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-842;Möring;Karsten;CDU/CSU;;;;;;;;;;;
-843;Motschmann;Elisabeth;CDU/CSU;;;;;;;;;;;
 844;Müller (Braunschweig);Carsten;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-845;Nick;Andreas;CDU/CSU;;;;;;;;;;;
-846;Nowak;Helmut;CDU/CSU;;;;;;;;;;;
 847;Oellers;Wilfried;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 848;Oßner;Florian;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-849;Ostermann;Tim;CDU/CSU;;;;;;;;;;;
-850;Pahlmann;Ingrid;CDU/CSU;;;;;;;;;;;
-851;Pantel;Sylvia;CDU/CSU;;;;;;;;;;;
-852;Patzelt;Martin;CDU/CSU;;;;;;;;;;;
-853;Pätzold;Martin;CDU/CSU;;;;;;;;;;;
 854;Radomski;Kerstin;CDU/CSU;0.0;1.0;0.0;2.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 855;Radwan;Alexander;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 856;Rainer;Alois;CDU/CSU;0.0;1.0;0.0;2.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 857;Schimke;Jana;CDU/CSU;0.0;2.0;0.0;0.0;2.0;2.0;2.0;1.0;2.0;2.0;2.0
-858;Schmelzle;Heiko;CDU/CSU;;;;;;;;;;;
-859;Schmidt (Ühlingen);Gabriele;CDU/CSU;;;;;;;;;;;
-860;Schulze;Klaus-Peter;CDU/CSU;;;;;;;;;;;
-861;Schwarzer;Christina;CDU/CSU;;;;;;;;;;;
 862;Sorge;Tino;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 863;Stefinger;Wolfgang;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 864;Stegemann;Albert;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-865;Stein;Peter;CDU/CSU;;;;;;;;;;;
-866;Steineke;Sebastian;CDU/CSU;;;;;;;;;;;
 867;Steiniger;Johannes;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-868;Stockhofe;Rita;CDU/CSU;;;;;;;;;;;
-869;Strebl;Matthäus;CDU/CSU;;;;;;;;;;;
-870;Stritzl;Thomas;CDU/CSU;;;;;;;;;;;
-871;Sütterlin-Waack;Sabine;CDU/CSU;;;;;;;;;;;
 872;Timmermann-Fechter;Astrid;CDU/CSU;2.0;2.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 873;Ullrich;Volker;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;2.0;2.0
-874;Veith;Oswin;CDU/CSU;;;;;;;;;;;
-875;Viesehon;Thomas;CDU/CSU;;;;;;;;;;;
-876;Vietz;Michael;CDU/CSU;;;;;;;;;;;
-877;Volmering;Sven;CDU/CSU;;;;;;;;;;;
-878;Voßbeck-Kayser;Christel;CDU/CSU;;;;;;;;;;;
-879;Vries;Kees;CDU/CSU;;;;;;;;;;;
 880;Warken;Nina;CDU/CSU;2.0;2.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-881;Weiler;Albert;CDU/CSU;;;;;;;;;;;
 882;Weisgerber;Anja;CDU/CSU;0.0;1.0;0.0;1.0;2.0;2.0;2.0;1.0;0.0;2.0;2.0
-883;Wendt;Marian;CDU/CSU;;;;;;;;;;;
 884;Whittaker;Kai;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-885;Wiese (Ehingen);Heinz;CDU/CSU;;;;;;;;;;;
-886;Wittke;Oliver;CDU/CSU;;;;;;;;;;;
-887;Woltmann;Barbara;CDU/CSU;;;;;;;;;;;
-888;Zech;Tobias;CDU/CSU;;;;;;;;;;;
-889;Zertik;Heinrich;CDU/CSU;;;;;;;;;;;
 890;Zeulner;Emmi;CDU/CSU;0.0;1.0;2.0;2.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-891;Zollner;Gudrun;CDU/CSU;;;;;;;;;;;
 892;Annen;Niels;SPD;2.0;2.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 893;Baehrens;Heike;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 894;Bahr;Ulrike;SPD;1.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;1.0;1.0
-895;Barley;Katarina;SPD;;;;;;;;;;;
-896;Bartke;Matthias;SPD;;;;;;;;;;;
-897;Blienert;Burkhard;SPD;;;;;;;;;;;
-898;Brunner;Karl-Heinz;SPD;;;;;;;;;;;
 899;Castellucci;Lars;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 900;Daldrup;Bernhard;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-901;De Ridder;Daniela;SPD;;;;;;;;;;;
 902;Diaby;Karamba;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 903;Dittmar;Sabine;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;2.0;1.0
-904;Engelmeier-Heite;Michaela;SPD;;;;;;;;;;;
 905;Esken;Saskia;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 906;Fechner;Johannes;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-907;Felgentreu;Fritz;SPD;;;;;;;;;;;
-908;Finckh-Krämer;Ute;SPD;;;;;;;;;;;
-909;Flisek;Christian;SPD;;;;;;;;;;;
-910;Freese;Ulrich;SPD;;;;;;;;;;;
 911;Grötsch;Uli;SPD;1.0;0.0;0.0;1.0;1.0;2.0;1.0;2.0;2.0;2.0;2.0
 912;Hagl-Kehl;Rita;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 913;Hakverdi;Metin;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-914;Hampel;Ulrich;SPD;;;;;;;;;;;
 915;Hartmann;Sebastian;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;2.0
 916;Heidenblut;Dirk;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 917;Heinrich;Gabriela;SPD;1.0;0.0;0.0;1.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0
-918;Held;Marcus;SPD;;;;;;;;;;;
-919;Henn;Heidtrud;SPD;;;;;;;;;;;
 920;Hitschler;Thomas;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-921;Ilgen;Matthias;SPD;;;;;;;;;;;
-922;Jantz;Christina;SPD;;;;;;;;;;;
-923;Jost;Reinhold;SPD;;;;;;;;;;;
 924;Junge;Frank;SPD;1.0;0.0;2.0;2.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-925;Jurk;Thomas;SPD;;;;;;;;;;;
-926;Kampmann;Christina;SPD;;;;;;;;;;;
-927;Kapschack;Ralf;SPD;;;;;;;;;;;
 928;Katzmarek;Gabriele;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-929;Kermer;Marina;SPD;;;;;;;;;;;
 930;Kiziltepe;Cansel;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-931;Klare;Arno;SPD;;;;;;;;;;;
-932;Kömpel;Birgit;SPD;;;;;;;;;;;
-933;Krüger;Hans-Ulrich;SPD;;;;;;;;;;;
-934;Kühn-Mengel;Helga;SPD;;;;;;;;;;;
-935;Lotze;Hiltrud;SPD;;;;;;;;;;;
-936;Malecha-Nissen;Birgit;SPD;;;;;;;;;;;
-937;Mindrup;Klaus;SPD;;;;;;;;;;;
 938;Mittag;Susanne;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;1.0;1.0
 939;Müller;Bettina;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 940;Müntefering;Michelle;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
-941;Nissen;Ulli;SPD;;;;;;;;;;;
 942;Özdemir (Duisburg);Mahmut;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-943;Paschke;Markus;SPD;;;;;;;;;;;
-944;Pflugradt;Jeannine;SPD;;;;;;;;;;;
-945;Pilger;Detlev;SPD;;;;;;;;;;;
 946;Poschmann;Sabine;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
-947;Post;Florian;SPD;;;;;;;;;;;
 948;Post (Minden);Achim;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;2.0;2.0
-949;Raatz;Simone;SPD;;;;;;;;;;;
-950;Rabanus;Martin;SPD;;;;;;;;;;;
 951;Rimkus;Andreas;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 952;Rohde;Dennis;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 953;Rosemann;Martin;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-954;Rüthrich;Susann;SPD;;;;;;;;;;;
 955;Rützel;Bernd;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 956;Saathoff;Johann;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;1.0;1.0;1.0
-957;Schabedoth;Hans-Joachim;SPD;;;;;;;;;;;
 958;Scheer;Nina;SPD;1.0;0.0;0.0;1.0;1.0;1.0;2.0;0.0;1.0;1.0;1.0
 959;Schiefner;Udo;SPD;2.0;2.0;0.0;1.0;2.0;2.0;2.0;0.0;1.0;1.0;2.0
-960;Schlegel;Dorothee;SPD;;;;;;;;;;;
-961;Schmidt (Berlin);Matthias;SPD;;;;;;;;;;;
 962;Schmidt (Wetzlar);Dagmar;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-963;Schulte;Ursula;SPD;;;;;;;;;;;
 964;Schwarz;Andreas;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-965;Spiering;Rainer;SPD;;;;;;;;;;;
-966;Spinrath;Norbert;SPD;;;;;;;;;;;
 967;Stadler;Svenja;SPD;2.0;2.0;0.0;2.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0
 968;Stamm-Fibich;Martina;SPD;1.0;0.0;0.0;1.0;1.0;2.0;1.0;0.0;1.0;1.0;2.0
 969;Tausend;Claudia;SPD;1.0;0.0;0.0;1.0;1.0;2.0;1.0;0.0;1.0;1.0;1.0
 970;Thews;Michael;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 971;Träger;Carsten;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 972;Vöpel;Dirk;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-973;Weber;Gabi;SPD;;;;;;;;;;;
 974;Westphal;Bernd;SPD;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0
 975;Wiese;Dirk;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 976;Yüksel;Gülistan;SPD;1.0;0.0;0.0;1.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0
 977;Zierke;Stefan;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;1.0;1.0;1.0
 978;Zimmermann;Jens;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;2.0
-979;Hahn;Andre;DIE LINKE;;;;;;;;;;;
-980;Hupach;Sigrid;DIE LINKE;;;;;;;;;;;
-981;Karawanskij;Susanna;DIE LINKE;;;;;;;;;;;
-982;Kassner;Kerstin;DIE LINKE;;;;;;;;;;;
-983;Neu;Alexander S.;DIE LINKE;;;;;;;;;;;
-984;Petzold (Havelland);Harald;DIE LINKE;;;;;;;;;;;
-985;Renner;Martina;DIE LINKE;;;;;;;;;;;
-986;Tank;Azize;DIE LINKE;;;;;;;;;;;
-987;Wöllert;Birgit;DIE LINKE;;;;;;;;;;;
-988;Zdebel;Hubertus;DIE LINKE;;;;;;;;;;;
-989;Zimmermann;Pia;DIE LINKE;;;;;;;;;;;
-990;Zimmermann (Zwickau);Sabine;DIE LINKE;;;;;;;;;;;
-991;Amtsberg;Luise;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-992;Baerbock;Annalena;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-993;Brantner;Franziska;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-994;Brugger;Agnieszka;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-995;Dröge;Katharina;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-996;Gastel;Matthias;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-997;Hajduk;Anja;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-998;Janecek;Dieter;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-999;Kühn (Dresden);Stephan;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1000;Kühn (Tübingen);Christian;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1001;Lemke;Steffi;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1002;Meiwald;Peter;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1003;Mihalic;Irene;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1004;Mutlu;Özcan;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1005;Özdemir;Cem;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1006;Rüffer;Corinna;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1007;Schauws;Ulle;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1008;Schulz-Asche;Kordula;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1009;Verlinden;Julia;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1010;Wagner;Doris;BÜNDNIS`90/DIE GRÜNEN;;;;;;;;;;;
-1011;Lerchenfeld;Philipp;CDU/CSU;;;;;;;;;;;
-1012;Hahn;Andre;DIE LINKE.;;;;;;;;;;;
-1013;Hupach;Sigrid;DIE LINKE.;;;;;;;;;;;
-1014;Karawanskij;Susanna;DIE LINKE.;;;;;;;;;;;
-1015;Kassner;Kerstin;DIE LINKE.;;;;;;;;;;;
-1016;Neu;Alexander S.;DIE LINKE.;;;;;;;;;;;
-1017;Petzold (Havelland);Harald;DIE LINKE.;;;;;;;;;;;
 1018;Renner;Martina;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-1019;Tank;Azize;DIE LINKE.;;;;;;;;;;;
-1020;Wöllert;Birgit;DIE LINKE.;;;;;;;;;;;
-1021;Zdebel;Hubertus;DIE LINKE.;;;;;;;;;;;
-1022;Zimmermann;Pia;DIE LINKE.;;;;;;;;;;;
-1023;Zimmermann (Zwickau);Sabine;DIE LINKE.;;;;;;;;;;;
 1024;Amtsberg;Luise;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;2.0;0.0;2.0;2.0;2.0
 1025;Baerbock;Annalena;BÜ90/GR;1.0;0.0;2.0;2.0;2.0;2.0;1.0;0.0;1.0;1.0;1.0
 1026;Brantner;Franziska;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1027;Brugger;Agnieszka;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1028;Dröge;Katharina;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1029;Gastel;Matthias;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1030;Hajduk;Anja;BÜ90/GR;;;;;;;;;;;
 1031;Janecek;Dieter;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1032;Kühn (Dresden);Stephan;BÜ90/GR;;;;;;;;;;;
 1033;Kühn (Tübingen);Christian;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1034;Lemke;Steffi;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
-1035;Meiwald;Peter;BÜ90/GR;;;;;;;;;;;
 1036;Mihalic;Irene;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1037;Mutlu;Özcan;BÜ90/GR;;;;;;;;;;;
 1038;Özdemir;Cem;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;2.0;0.0;1.0;1.0;2.0
 1039;Rüffer;Corinna;BÜ90/GR;1.0;2.0;2.0;2.0;1.0;1.0;2.0;0.0;1.0;1.0;2.0
 1040;Schauws;Ulle;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1041;Schulz-Asche;Kordula;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1042;Verlinden;Julia;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1043;Wagner;Doris;BÜ90/GR;;;;;;;;;;;
 1044;Rupprecht;Albert;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-1045;Kolbe;Daniela;SPD;;;;;;;;;;;
 1046;Petry;Christian;SPD;2.0;2.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
 1047;Jung;Andreas;CDU/CSU;0.0;1.0;2.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
 1048;Schieder;Marianne;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1049;Westermayer;Waldemar;CDU/CSU;;;;;;;;;;;
-1050;Engelmeier;Michaela;SPD;;;;;;;;;;;
 1051;Glöckner;Angelika;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1052;Müller (Potsdam);Norbert;DIE LINKE.;;;;;;;;;;;
-1053;Hoffmann (Dortmund);Thorsten;CDU/CSU;;;;;;;;;;;
-1054;Obermeier;Julia;CDU/CSU;;;;;;;;;;;
-1055;Schmitt (Althengstett);Ronja;CDU/CSU;;;;;;;;;;;
 1056;Müller (Chemnitz);Detlef;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1057;Menz;Birgit;DIE LINKE.;;;;;;;;;;;
-1058;Eberl;Iris;CDU/CSU;;;;;;;;;;;
-1059;Thissen;Karin;SPD;;;;;;;;;;;
-1060;Schmitt;Ronja;CDU/CSU;;;;;;;;;;;
 1061;Ryglewski;Sarah;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;1.0;2.0;1.0
-1062;Mosblech;Volker;CDU/CSU;;;;;;;;;;;
-1063;Scho-Antwerpes;Elfi;SPD;;;;;;;;;;;
-1064;Rode-Bosse;Petra;SPD;;;;;;;;;;;
 1065;Berghegger;André;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-1066;Jantz-Herrmann;Christina;SPD;;;;;;;;;;;
 1067;Hahn;André;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-1068;Ripsam;Iris;CDU/CSU;;;;;;;;;;;
-1069;Rösel;Kathrin;CDU/CSU;;;;;;;;;;;
-1070;Wange;Karl-Heinz;CDU/CSU;;;;;;;;;;;
 1071;Coße;Jürgen;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1072;Hajek;Rainer;CDU/CSU;;;;;;;;;;;
 1073;Kemmer;Ronja;CDU/CSU;0.0;1.0;0.0;1.0;2.0;2.0;2.0;1.0;0.0;1.0;1.0
-1074;Bähr-Losse;Bettina;SPD;;;;;;;;;;;
-1075;Höschel;Mathias Edwin;CDU/CSU;;;;;;;;;;;
-1076;Steinbach;Erika;fraktionslos;;;;;;;;;;;
-1077;Steinbach;Erika;Fraktionslos;;;;;;;;;;;
-1078;Herdan;Marion Marga;CDU/CSU;;;;;;;;;;;
-1079;Abercron;Michael;CDU/CSU;;;;;;;;;;;
 1080;Altenkamp;Norbert Maria;CDU/CSU;0.0;1.0;0.0;1.0;2.0;2.0;2.0;1.0;0.0;1.0;1.0
 1081;Amthor;Philipp;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;2.0
-1082;Bernstein;Melanie;CDU/CSU;;;;;;;;;;;
-1083;Bernstiel;Christoph;CDU/CSU;;;;;;;;;;;
 1084;Biadacz;Marc;CDU/CSU;0.0;2.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1085;Brand (Fulda);Michael;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1086;Breher;Silvia;CDU/CSU;0.0;1.0;2.0;2.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
@@ -1090,19 +277,12 @@
 1088;Brodesser;Carsten;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1089;Damerow;Astrid;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
 1090;Erndl;Thomas;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
-1091;Gnodtke;Eckhard;CDU/CSU;;;;;;;;;;;
 1092;Heilmann;Thomas;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1093;Henrichmann;Marc;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;2.0
-1094;Irmer;Hans-Jürgen;CDU/CSU;;;;;;;;;;;
 1095;Jung;Ingmar;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-1096;Kartes;Torbjörn;CDU/CSU;;;;;;;;;;;
 1097;Kießling;Michael;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-1098;Krauß;Alexander;CDU/CSU;;;;;;;;;;;
-1099;Kuffer;Michael;CDU/CSU;;;;;;;;;;;
 1100;Lehmann;Jens;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-1101;Löbel;Nikolas;CDU/CSU;;;;;;;;;;;
 1102;Loos;Bernhard;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-1103;Mannes;Astrid;CDU/CSU;;;;;;;;;;;
 1104;Müller;Axel;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1105;Müller;Sepp;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1106;Nicolaisen;Petra;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
@@ -1110,24 +290,17 @@
 1108;Pilsinger;Stephan;CDU/CSU;0.0;1.0;2.0;2.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1109;Ploß;Christoph;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1110;Rouenhoff;Stefan;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-1111;Sauer;Stefan;CDU/CSU;;;;;;;;;;;
-1112;Schmidtke;Claudia;CDU/CSU;;;;;;;;;;;
 1113;Schön;Nadine;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
 1114;Schreiner;Felix;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;2.0
-1115;Schweiger;Torsten;CDU/CSU;;;;;;;;;;;
 1116;Simon;Björn;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1117;Staffler;Katrin;CDU/CSU;0.0;1.0;0.0;1.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0
-1118;Steier;Andreas;CDU/CSU;;;;;;;;;;;
-1119;Stein (Rostock);Peter;CDU/CSU;;;;;;;;;;;
 1120;Tebroke;Hermann-Josef;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0
 1121;Thies;Hans-Jürgen;CDU/CSU;2.0;2.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;2.0
 1122;Throm;Alexander;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
-1123;Tiemann;Dietlind;CDU/CSU;;;;;;;;;;;
 1124;Uhl;Markus;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1125;Vieregge;Kerstin;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;1.0;1.0
 1126;Vries;Christoph;CDU/CSU;0.0;1.0;0.0;1.0;2.0;2.0;2.0;1.0;0.0;1.0;1.0
 1127;Wadephul;Johann David;CDU/CSU;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;2.0;2.0;2.0
-1128;Wiesmann;Bettina Margarethe;CDU/CSU;;;;;;;;;;;
 1129;Ziemiak;Paul;CDU/CSU;0.0;1.0;0.0;1.0;2.0;2.0;1.0;2.0;2.0;2.0;2.0
 1130;Breymaier;Leni;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1131;Budde;Katrin;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
@@ -1136,10 +309,8 @@
 1134;Fahimi;Yasmin;SPD;1.0;0.0;0.0;1.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0
 1135;Gremmels;Timon;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1136;Kaiser;Elisabeth;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1137;Korkmaz;Elvan;SPD;;;;;;;;;;;
 1138;Lindh;Helge;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;2.0;1.0
 1139;Maas;Heiko;SPD;1.0;0.0;0.0;1.0;2.0;2.0;1.0;0.0;2.0;2.0;2.0
-1140;Matschie;Christoph;SPD;;;;;;;;;;;
 1141;Mohrs;Falko;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1142;Moll;Claudia;SPD;1.0;0.0;2.0;2.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1143;Möller;Siemtje;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
@@ -1148,9 +319,6 @@
 1146;Schmidt;Uwe;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1147;Schraps;Johannes;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1148;Schrodi;Michael;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1149;Schüle;Manja;SPD;;;;;;;;;;;
-1150;Schulz;Martin;SPD;;;;;;;;;;;
-1151;Steffen;Sonja Amalie;SPD;;;;;;;;;;;
 1152;Stein;Mathias;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1153;Töns;Markus;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1154;Völlers;Marja-Liisa;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
@@ -1161,47 +329,26 @@
 1159;Brandner;Stephan;AfD;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
 1160;Braun;Jürgen;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1161;Bühl;Marcus;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1162;Büttner;Matthias;AfD;;;;;;;;;;;
 1163;Bystron;Petr;AfD;0.0;0.0;2.0;0.0;0.0;2.0;0.0;2.0;2.0;2.0;2.0
 1164;Chrupalla;Tino;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1165;Cotar;Joana Eleonora;AfD;;;;;;;;;;;
 1166;Curio;Gottfried;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0;1.0;0.0
-1167;Droese;Siegbert;AfD;;;;;;;;;;;
 1168;Ehrhorn;Thomas;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0
-1169;Elsner von Gronow;Berengar;AfD;;;;;;;;;;;
 1170;Espendiller;Michael;AfD;2.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1171;Felser;Peter;AfD;2.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1172;Friedhoff;Dietmar;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1173;Friesen;Anton;AfD;;;;;;;;;;;
 1174;Frohnmaier;Markus;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0
 1175;Frömming;Götz;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1176;Gauland;Alexander;AfD;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-1177;Gehrke;Axel;AfD;;;;;;;;;;;
-1178;Glaser;Albrecht Heinz Erhard;AfD;;;;;;;;;;;
-1179;Gminder;Franziska;AfD;;;;;;;;;;;
-1180;Gottberg;Wilhelm;AfD;;;;;;;;;;;
 1181;Gottschalk;Kay;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1182;Hampel;Armin-Paulus;AfD;;;;;;;;;;;
 1183;Harder-Kühnel;Mariana Iris;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1184;Hartmann;Verena;AfD;;;;;;;;;;;
-1185;Hartwig;Roland;AfD;;;;;;;;;;;
 1186;Haug;Jochen;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1187;Hebner;Martin;AfD;;;;;;;;;;;
-1188;Hemmelgarn;Udo Theodor;AfD;;;;;;;;;;;
-1189;Herdt;Waldemar;AfD;;;;;;;;;;;
-1190;Herrmann;Lars;AfD;;;;;;;;;;;
 1191;Hess;Martin;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1192;Heßenkemper;Heiko;AfD;;;;;;;;;;;
 1193;Hilse;Karsten;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
 1194;Höchst;Nicole;AfD;0.0;0.0;2.0;2.0;2.0;2.0;2.0;0.0;0.0;0.0;0.0
-1195;Hohmann;Martin;AfD;;;;;;;;;;;
-1196;Hollnagel;Bruno;AfD;;;;;;;;;;;
 1197;Holm;Leif-Erik;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1198;Huber;Johannes;AfD;0.0;0.0;2.0;0.0;;;;;;;
 1199;Jacobi;Fabian;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1200;Jongen;Marc;AfD;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1201;Kamann;Uwe;AfD;;;;;;;;;;;
-1202;Kestner;Jens;AfD;;;;;;;;;;;
 1203;Keuter;Stefan;AfD;2.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1204;Kleinwächter;Norbert;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0;1.0;0.0
 1205;Komning;Enrico;AfD;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0
@@ -1209,55 +356,35 @@
 1207;Kotré;Steffen;AfD;2.0;0.0;2.0;0.0;0.0;2.0;2.0;0.0;0.0;2.0;2.0
 1208;Kraft;Rainer;AfD;0.0;0.0;0.0;0.0;2.0;2.0;2.0;0.0;0.0;0.0;0.0
 1209;Lucassen;Rüdiger;AfD;0.0;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;1.0;0.0
-1210;Magnitz;Frank;AfD;;;;;;;;;;;
-1211;Maier;Jens;AfD;;;;;;;;;;;
-1212;Maier;Lothar;AfD;;;;;;;;;;;
-1213;Malsack-Winkemann;Birgit;AfD;;;;;;;;;;;
 1214;Miazga;Corinna;AfD;0.0;0.0;2.0;0.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0
-1215;Mrosek;Andreas;AfD;;;;;;;;;;;
-1216;Müller;Hansjörg;AfD;;;;;;;;;;;
-1217;Münz;Volker;AfD;;;;;;;;;;;
 1218;Münzenmaier;Sebastian;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1219;Neumann;Christoph;AfD;;;;;;;;;;;
 1220;Nolte;Jan Ralf;AfD;0.0;0.0;2.0;0.0;2.0;2.0;0.0;2.0;0.0;1.0;0.0
-1221;Oehme;Ulrich;AfD;;;;;;;;;;;
 1222;Otten;Gerold;AfD;2.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1223;Pasemann;Frank;AfD;;;;;;;;;;;
 1224;Peterka;Tobias Matthias;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
-1225;Podolay;Paul Viktor;AfD;;;;;;;;;;;
 1226;Pohl;Jürgen;AfD;2.0;2.0;2.0;2.0;0.0;0.0;0.0;2.0;2.0;2.0;2.0
 1227;Protschka;Stephan;AfD;0.0;0.0;2.0;0.0;2.0;2.0;2.0;0.0;0.0;1.0;0.0
 1228;Reichardt;Martin;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0
 1229;Renner;Martin Erwin;AfD;2.0;2.0;2.0;0.0;0.0;2.0;0.0;2.0;0.0;1.0;0.0
-1230;Reusch;Roman Johannes;AfD;;;;;;;;;;;
 1231;Schielke-Ziesing;Ulrike;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1232;Schlund;Robby;AfD;;;;;;;;;;;
 1233;Schneider;Jörg;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1234;Schulz;Uwe;AfD;0.0;0.0;2.0;0.0;0.0;2.0;2.0;2.0;2.0;2.0;2.0
 1235;Seitz;Thomas;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
 1236;Sichert;Martin;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-1237;Spangenberg;Detlev;AfD;;;;;;;;;;;
 1238;Spaniel;Dirk;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1239;Springer;René;AfD;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1240;Storch;Beatrix;AfD;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1241;Weidel;Alice;AfD;2.0;2.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0
 1242;Weyel;Harald;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
 1243;Wiehle;Wolfgang;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
-1244;Wildberg;Heiko;AfD;;;;;;;;;;;
 1245;Wirth;Christian;AfD;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
 1246;Witt;Uwe;AfD;2.0;2.0;2.0;2.0;;;;;;;
-1247;Aggelidis;Grigorios;FDP;;;;;;;;;;;
 1248;Alt;Renata;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1249;Bauer;Nicole;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
 1250;Beeck;Jens;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1251;Beer;Nicola;FDP;;;;;;;;;;;
-1252;Brandenburg;Mario;FDP;;;;;;;;;;;
 1253;Brandenburg (Rhein-Neckar);Jens;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
 1254;Busen;Karlheinz;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1255;Cronenberg;Carl-Julius;FDP;2.0;2.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1256;Dassler;Britta Katharina;FDP;;;;;;;;;;;
 1257;Dürr;Christian;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1258;Ebbing;Hartmut;FDP;;;;;;;;;;;
 1259;Faber;Marcus;FDP;2.0;2.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1260;Föst;Daniel;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1261;Hacker;Thomas;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
@@ -1268,80 +395,49 @@
 1266;Hocker;Gero Clemens;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1267;Hoffmann;Christoph;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
 1268;Houben;Reinhard;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1269;Ihnen;Ulla;FDP;;;;;;;;;;;
 1270;In der Beek;Olaf;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1271;Jensen;Gyde;FDP;2.0;2.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1272;Jung;Christian;FDP;;;;;;;;;;;
-1273;Kemmerich;Thomas L.;FDP;;;;;;;;;;;
 1274;Klein;Karsten;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1275;Klinge;Marcel;FDP;;;;;;;;;;;
-1276;Kloke;Katharina;FDP;;;;;;;;;;;
 1277;Kluckert;Daniela;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1278;Köhler;Lukas;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1279;Konrad;Carina;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1280;Kubicki;Wolfgang;FDP;1.0;0.0;0.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0;2.0
-1281;Kuhle;Konstantin Elias;FDP;;;;;;;;;;;
-1282;Kulitz;Alexander;FDP;;;;;;;;;;;
 1283;Lambsdorff;Alexander;FDP;1.0;0.0;2.0;2.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0
 1284;Lechte;Ulrich;FDP;1.0;0.0;0.0;0.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
 1285;Lindner;Christian;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;1.0;1.0;1.0
 1286;Mansmann;Till;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1287;Martens;Jürgen;FDP;;;;;;;;;;;
 1288;Meyer;Christoph;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1289;Müller;Alexander;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1290;Müller-Böhm;Roman;FDP;;;;;;;;;;;
 1291;Müller-Rosentritt;Frank;FDP;1.0;0.0;0.0;2.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1292;Reuther;Bernd;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1293;Sattelberger;Thomas;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1294;Sauter;Christian;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1295;Schinnenburg;Wieland;FDP;;;;;;;;;;;
 1296;Seestern-Pauly;Matthias;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1297;Sitta;Frank;FDP;;;;;;;;;;;
 1298;Stark-Watzinger;Bettina;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;2.0;2.0
 1299;Strack-Zimmermann;Marie-Agnes;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1300;Strasser;Benjamin;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1301;Suding;Katja;FDP;;;;;;;;;;;
 1302;Teuteberg;Linda;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1303;Theurer;Michael;FDP;1.0;0.0;2.0;2.0;1.0;1.0;1.0;2.0;1.0;1.0;1.0
 1304;Ullmann;Andrew;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1305;Ullrich;Gerald;FDP;1.0;0.0;0.0;2.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1306;Weeser;Sandra;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1307;Westig;Nicole;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1308;Achelwilm;Doris;DIE LINKE.;;;;;;;;;;;
 1309;Akbulut;Gökay;DIE LINKE.;2.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;2.0;2.0;2.0
-1310;Barrientos;Simone;DIE LINKE.;;;;;;;;;;;
-1311;Beutin;Lorenz Gösta;DIE LINKE.;;;;;;;;;;;
-1312;Brandt;Michel;DIE LINKE.;;;;;;;;;;;
-1313;Bull-Bischoff;Birke;DIE LINKE.;;;;;;;;;;;
-1314;Cezanne;Jörg;DIE LINKE.;;;;;;;;;;;
-1315;De Masi;Fabio;DIE LINKE.;;;;;;;;;;;
 1316;Domscheit-Berg;Anke;DIE LINKE.;2.0;2.0;1.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0
 1317;Ferschl;Susanne;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-1318;Freihold;Brigitte;DIE LINKE.;;;;;;;;;;;
-1319;Gabelmann;Sylvia;DIE LINKE.;;;;;;;;;;;
-1320;Höhn;Matthias;DIE LINKE.;;;;;;;;;;;
-1321;Kessler;Achim;DIE LINKE.;;;;;;;;;;;
 1322;Meiser;Pascal;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;2.0;0.0;0.0;2.0;0.0
 1323;Mohamed Ali;Amira;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
 1324;Nastic;Zaklin;DIE LINKE.;2.0;2.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
 1325;Pellmann;Sören;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
 1326;Perli;Victor;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-1327;Pflüger;Tobias;DIE LINKE.;;;;;;;;;;;
 1328;Riexinger;Bernd;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-1329;Schreiber;Eva-Maria Elisabeth;DIE LINKE.;;;;;;;;;;;
-1330;Sommer;Helin Evrim;DIE LINKE.;;;;;;;;;;;
-1331;Straetmanns;Friedrich;DIE LINKE.;;;;;;;;;;;
 1332;Tatti;Jessica;DIE LINKE.;2.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
-1333;Wagner;Andreas;DIE LINKE.;;;;;;;;;;;
 1334;Badum;Lisa;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1335;Bause;Margarete;BÜ90/GR;;;;;;;;;;;
-1336;Bayaz;Danyal;BÜ90/GR;;;;;;;;;;;
 1337;Bayram;Canan;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;2.0;0.0;0.0
 1338;Christmann;Anna;BÜ90/GR;1.0;0.0;0.0;1.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0
 1339;Gelbhaar;Stefan;BÜ90/GR;1.0;0.0;0.0;1.0;2.0;1.0;1.0;0.0;1.0;1.0;1.0
 1340;Grundl;Erhard;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
 1341;Hoffmann;Bettina;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1342;Holtz;Ottmar;BÜ90/GR;;;;;;;;;;;
 1343;Kappert-Gonther;Kirsten;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1344;Lehmann;Sven;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;2.0;2.0
 1345;Müller;Claudia;BÜ90/GR;1.0;0.0;0.0;1.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0
@@ -1349,53 +445,22 @@
 1347;Polat;Filiz;BÜ90/GR;1.0;0.0;0.0;1.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0
 1348;Rottmann;Manuela;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1349;Schmidt;Stefan;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1350;Stumpp;Margit;BÜ90/GR;;;;;;;;;;;
-1351;Mieruch;Mario;Fraktionslos;;;;;;;;;;;
-1352;Petry;Frauke;Fraktionslos;;;;;;;;;;;
 1353;Cotar;Joana;AfD;2.0;2.0;2.0;0.0;2.0;2.0;2.0;0.0;0.0;1.0;0.0
 1354;Glaser;Albrecht;AfD;2.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0
 1355;Kuhle;Konstantin;FDP;2.0;2.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1356;Vogel (Olpe);Johannes;FDP;1.0;0.0;;;;;;;;;
 1357;Link (Heilbronn);Michael Georg;FDP;2.0;2.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1358;Willkomm;Katharina;FDP;;;;;;;;;;;
 1359;Brandenburg (Südpfalz);Mario;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1360;Schreiber;Eva-Maria;DIE LINKE.;;;;;;;;;;;
-1361;Weiler;Albert H.;CDU/CSU;;;;;;;;;;;
-1362;Bülow;Marco;Fraktionslos;;;;;;;;;;;
 1363;Baradari;Nezahat;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1364;Zickenheiner;Gerhard;BÜ90/GR;;;;;;;;;;;
-1365;Kamann;Uwe;Fraktionslos;;;;;;;;;;;
-1366;Bluhm-Förster;Heidrun;DIE LINKE.;;;;;;;;;;;
-1367;Mackensen;Isabel;SPD;;;;;;;;;;;
 1368;Heidt;Peter;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;1.0;1.0
-1369;Korkmaz-Emre;Elvan;SPD;;;;;;;;;;;
-1370;Brecht;Eberhard;SPD;;;;;;;;;;;
 1371;Weingarten;Joe;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1372;Schneidewind-Hartnagel;Charlotte;BÜ90/GR;;;;;;;;;;;
 1373;Hanke;Reginald;FDP;1.0;0.0;0.0;1.0;1.0;1.0;2.0;0.0;1.0;2.0;2.0
-1374;Ludwig;Saskia;CDU/CSU;;;;;;;;;;;
 1375;Lehmann;Sylvia;SPD;2.0;2.0;0.0;1.0;1.0;1.0;2.0;0.0;1.0;1.0;1.0
 1376;Bubendorfer-Licht;Sandra;FDP;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1377;Herrmann;Lars;Fraktionslos;;;;;;;;;;;
-1378;Hartmann;Verena;Fraktionslos;;;;;;;;;;;
-1379;Bach;Bela;SPD;;;;;;;;;;;
-1380;Nölke;Matthias;FDP;;;;;;;;;;;
 1381;Martin;Dorothee;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1382;Wetzel;Wolfgang;BÜ90/GR;;;;;;;;;;;
-1383;Natterer;Christian;CDU/CSU;;;;;;;;;;;
 1384;Dahmen;Janosch;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;2.0
-1385;Pasemann;Frank;Fraktionslos;;;;;;;;;;;
-1386;Nordt;Kristina;CDU/CSU;;;;;;;;;;;
-1387;Nüßlein;Georg;Fraktionslos;;;;;;;;;;;
-1388;Friemann-Jennert;Maika;CDU/CSU;;;;;;;;;;;
-1389;Gohl;Christopher;FDP;;;;;;;;;;;
 1390;Mackensen-Geis;Isabel;SPD;2.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1391;Emmerich;Marcel;BÜ90/GR;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
-1392;Wetterich;Susanne;CDU/CSU;;;;;;;;;;;
-1393;Jäger;Florian;AfD;;;;;;;;;;;
-1394;Gökhan;Zeki;DIE LINKE.;;;;;;;;;;;
-1395;Heßenkemper;Heiko;Fraktionslos;;;;;;;;;;;
-1396;Hollnagel;Bruno;Fraktionslos;;;;;;;;;;;
 1397;Abdi;Sanae;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;2.0;2.0
 1398;Ahmetovic;Adis;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
 1399;Alabali-Radovan;Reem;SPD;1.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0

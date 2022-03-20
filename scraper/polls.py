@@ -157,11 +157,8 @@ def process_data():
         cols = [c for c in cur.columns if not c.startswith(str(period)) and "-" in c]
         cur = cur.drop(list(cols), axis=1)
         vote_cols = [c for c in cur.columns if "-" in c]
-        cur = cur.dropna(axis=0, how="any", subset=vote_cols)
+        cur = cur.dropna(axis=0, how="all", subset=vote_cols)
         cur.to_csv(f'{rootDir}/data/{period}_data.csv', sep=";", encoding='utf-8-sig')
     # merge and save all
     all: pd.DataFrame = pd.concat(results.values())
     all.to_csv(f'{rootDir}/data/all_data.csv', sep=";", encoding='utf-8-sig')
-
-
-process_data()
