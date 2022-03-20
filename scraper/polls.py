@@ -1,6 +1,5 @@
 import os
 import time
-import typing
 import numpy as np
 import pandas as pd
 import requests
@@ -119,11 +118,15 @@ def evaluate_vote(row: pd.Series):
     invalid = row["ungültig"]  # 2
     not_voted = row["nichtabgegeben"]  # 2
     if yes == 1:
-        return 1
+        return "Ja"
     elif no == 1:
-        return 0
-    elif abstention == 1 or invalid == 1 or not_voted == 1:
-        return 2
+        return "Nein"
+    elif abstention == 1:
+        return "Enthaltung"
+    elif invalid == 1:
+        return "Ungültig"
+    elif not_voted == 1:
+        return "Abwesend"
     else:
         return np.NaN  # should not happen
 
