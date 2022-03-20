@@ -21,6 +21,7 @@ urllist = f'{baseDir}out/polls_urls.txt'
 # 2. get_files() to download individual excel files
 # 3. check_files() to ensure files matching all list items
 # 4. merge_data() to build a big csv file
+# 5. process_data() to build individual csv files
 ####
 
 
@@ -152,11 +153,14 @@ def process_data():
     # save individual periods
     for period in results:
         cur: pd.DataFrame = results[period]  # to get intellisense
-        cols = [c for c in cur.columns if not c.startswith(period)]
-        cur = cur.drop(list(cols))
+        # drop cols from other periods
+        cols = [c for c in cur.columns if not c.startswith(str(period)) and "-" in c]
+        cur = cur.drop(list(cols), axis=1)
+        vote_cols = [c for c in cur.columns if "-" in c]
+        cur = cur.dropna(axis=0, how="any", subset=vote_cols)
         cur.to_csv(f'{rootDir}/data/{period}_data.csv', sep=";", encoding='utf-8-sig')
     # merge and save all
-    all: pd.DataFrame = pd.concat(results.items())
+    all: pd.DataFrame = pd.concat(results.values())
     all.to_csv(f'{rootDir}/data/all_data.csv', sep=";", encoding='utf-8-sig')
 
 
