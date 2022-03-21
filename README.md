@@ -5,7 +5,7 @@ The poll data was scraped using code in the `scraper` subfolder and stored in cs
 The files are named as follows: `[Voting Period]_data.csv` containing columns for each poll and are named with the following scheme: `[Period]-[Session]-[Poll]`
 
 index.ipynb is an attempt to do classfication with supervised machine learning using a SKLearn Pipeline with  GridSearchCV. Best Values for 19th Bundestag (Score: 76.78%):
-```json
+```
 {'classifier__knn__n_neighbors': 3, 'classifier__pca__n_components': 4}
 ```
 Visualization is done using tSNE. The major take-away from this project for me was that you can clearly see in the tSNE Visualizations who is the governing coalition in each period and the obligation to vote in accordance with party policy. The classification is not very useful as for yourself to classify a lot of polls have to be taken - although this would be a nice idea for further development.
