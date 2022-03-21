@@ -1,743 +1,743 @@
-﻿;Name;Vorname;Fraktion/Gruppe;20-003-01;20-003-02;20-007-01;20-007-02;20-014-02;20-014-03;20-015-01;20-021-01;20-022-01;20-022-02;20-022-03
-2;Aumer;Peter;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-3;Bär;Dorothee;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Abwesend;Ja;Abwesend;Abwesend;Abwesend
-4;Bareiß;Thomas;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-11;Beyer;Peter;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-12;Bilger;Steffen;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-21;Brandl;Reinhard;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-24;Braun;Helge;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Nein;Nein;Abwesend;Ja;Nein;Ja;Ja
-25;Brehmer;Heike;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-26;Brinkhaus;Ralph;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-28;Connemann;Gitta;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-29;Dobrindt;Alexander;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-33;Ferlemann;Enak;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Ja;Nein;Ja;Ja
-41;Friedrich (Hof);Hans-Peter;CDU/CSU;Nein;Abwesend;Nein;Nein;Nein;Nein;Abwesend;Ja;Abwesend;Abwesend;Abwesend
-42;Frieser;Michael;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-47;Gädechens;Ingo;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-49;Gebhart;Thomas;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-59;Gröhe;Hermann;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-60;Grosse-Brömer;Michael;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-61;Grübel;Markus;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Abwesend
-62;Grund;Manfred;CDU/CSU;Nein;Ja;Nein;Nein;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-63;Grütters;Monika;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-64;Gutting;Olav;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Nein;Nein;Abwesend;Ja;Nein;Ja;Ja
-65;Hahn;Florian;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Abwesend;Abwesend
-67;Hardt;Jürgen;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-71;Heil;Mechthild;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-75;Hennrich;Michael;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-76;Heveling;Ansgar;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-79;Hirte;Christian;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-85;Hüppe;Hubert;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-86;Jarzombek;Thomas;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-99;Kiesewetter;Roderich;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-102;Klein;Volkmar;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-104;Knoerig;Axel;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-105;Koeppen;Jens;CDU/CSU;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Ja;Nein;Abwesend;Abwesend
-111;Krichbaum;Gunther;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Abwesend
-112;Krings;Günter;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-121;Lange;Ulrich;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-123;Lehrieder;Paul;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-127;Linnemann;Carsten;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-128;Lips;Patricia;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Abwesend
-129;Luczak;Jan-Marco;CDU/CSU;Nein;Ja;Nein;Ja;Abwesend;Abwesend;Abwesend;Ja;Nein;Ja;Ja
-130;Ludwig;Daniela;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-135;Mattfeldt;Andreas;CDU/CSU;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-136;Mayer (Altötting);Stephan;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Ja;Abwesend;Abwesend;Abwesend
-137;Meister;Michael;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-141;Middelberg;Mathias;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-143;Monstadt;Dietrich;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-146;Müller (Erlangen);Stefan;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-153;Otte;Henning;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-164;Rachel;Thomas;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-165;Ramsauer;Peter;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Nein;Nein;Abwesend;Ja;Abwesend;Abwesend;Abwesend
-169;Rief;Josef;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Abwesend;Ja
-173;Röttgen;Norbert;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-175;Rüddel;Erwin;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-178;Schäuble;Wolfgang;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-180;Scheuer;Andreas;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Nein;Nein;Ja;Ja;Nein;Abwesend;Abwesend
-186;Schnieder;Patrick;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-194;Seif;Detlef;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-199;Silberhorn;Thomas;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-201;Spahn;Jens;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Nein;Nein;Ja;Ja;Nein;Abwesend;Abwesend
-205;Stetten;Christian;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-206;Stier;Dieter;CDU/CSU;Nein;Enthaltung;Nein;Abwesend;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-207;Storjohann;Gero;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-208;Stracke;Stephan;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-209;Straubinger;Max;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-215;Tillmann;Antje;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-222;Wanderwitz;Marco;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Abwesend;Ja;Nein;Ja;Ja
-226;Weiss (Wesel I);Sabine;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-230;Widmann-Mauz;Annette;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-231;Willsch;Klaus-Peter;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-232;Winkelmeier-Becker;Elisabeth;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-243;Bartol;Sören;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-244;Bas;Bärbel;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-269;Franke;Edgar;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-272;Gerdes;Michael;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-273;Gerster;Martin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-278;Griese;Kerstin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Abwesend;Nein;Ja;Ja;Ja
-283;Hagedorn;Bettina;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-286;Heil (Peine);Hubertus;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Abwesend
-287;Hellmich;Wolfgang;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Abwesend
-296;Juratovic;Josip;SPD;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-297;Kaczmarek;Oliver;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-301;Klingbeil;Lars;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-303;Kofler;Bärbel;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-306;Kramme;Anette;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-311;Lauterbach;Karl;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-317;Mast;Katja;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Abwesend
-321;Miersch;Matthias;SPD;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-323;Mützenich;Rolf;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Abwesend;Abwesend
-325;Nietan;Dietmar;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-329;Özoguz;Aydan;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-340;Rix;Sönke;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-344;Roth (Heringen);Michael;SPD;Ja;Nein;Abwesend;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-348;Schäfer (Bochum);Axel;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Abwesend
-354;Schneider (Erfurt);Carsten;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-358;Schwabe;Frank;SPD;Ja;Nein;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-361;Schwartze;Stefan;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-362;Schwarzelühr-Sutter;Rita;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-385;Aschenberg-Dugnus;Christine;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-395;Buschmann;Marco;FDP;Ja;Nein;Abwesend;Abwesend;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-399;Djir-Sarai;Bijan;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-406;Fricke;Otto;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-415;Höferlin;Manuel;FDP;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-421;Kober;Pascal;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-432;Lindemann;Lars;FDP;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-436;Luksic;Oliver;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-454;Schäffler;Frank;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-460;Skudelny;Judith;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Abwesend
-466;Thomae;Stephan;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-467;Todtenhausen;Manfred;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-468;Toncar;Florian;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-474;Wissing;Volker;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-622;Reinhold;Hagen;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-633;Bartsch;Dietmar;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-636;Birkwald;Matthias W.;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Enthaltung;Nein;Nein
-643;Dagdelen;Sevim;DIE LINKE.;Enthaltung;Nein;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Nein;Nein;Abwesend
-648;Ernst;Klaus;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein
-650;Gohlke;Nicole;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Abwesend;Nein;Nein;Nein;Nein
-653;Gysi;Gregor;DIE LINKE.;Enthaltung;Nein;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-658;Hunko;Andrej;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-661;Kipping;Katja;DIE LINKE.;Enthaltung;Nein;Abwesend;Abwesend;;;;;;;
-663;Korte;Jan;DIE LINKE.;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Nein;Nein;Nein;Abwesend
-666;Lay;Caren;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-668;Lenkert;Ralph;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-672;Lötzsch;Gesine;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-673;Lutze;Thomas;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Abwesend;Abwesend;Abwesend;Nein;Nein;Nein;Nein
-676;Möhring;Cornelia;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Abwesend;Abwesend;Abwesend;Abwesend
-680;Pau;Petra;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein
-690;Sitte;Petra;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-697;Ulrich;Alexander;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-698;Vogler;Kathrin;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-700;Wagenknecht;Sahra;DIE LINKE.;Enthaltung;Nein;Ja;Nein;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-713;Deligöz;Ekin;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Ja;Nein;Ja;Ja;Ja
-715;Ebner;Harald;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-718;Gehring;Kai;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-719;Göring-Eckardt;Katrin;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Abwesend;Ja;Nein;Ja;Abwesend;Ja
-720;Haßelmann;Britta;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-723;Hofreiter;Anton;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-728;Keul;Katja;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-731;Kindler;Sven-Christian;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-732;Klein-Schmeink;Maria;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-736;Krischer;Oliver;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-739;Künast;Renate;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-740;Kurth;Markus;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-743;Lindner;Tobias;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Abwesend;Ja;Ja
-747;Müller-Gemmeke;Beate;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-748;Notz;Konstantin;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-749;Nouripour;Omid;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-752;Paus;Lisa;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-754;Rößner;Tabea;BÜ90/GR;Ja;Nein;Abwesend;Abwesend;Ja;Ja;Ja;Nein;Abwesend;Ja;Ja
-755;Roth (Augsburg);Claudia;BÜ90/GR;Ja;Nein;Abwesend;Abwesend;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-763;Strengmann-Kuhn;Wolfgang;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-767;Trittin;Jürgen;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Abwesend;Abwesend;Abwesend
-770;Walter-Rosenheimer;Beate;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-776;Albani;Stephan;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-778;Auernhammer;Artur;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Abwesend;Ja;Nein;Ja;Ja
-785;Donth;Michael;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-786;Durz;Hansjörg;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-789;Färber;Hermann;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-790;Feiler;Uwe;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-791;Frei;Thorsten;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-797;Grundmann;Oliver;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Abwesend;Ja
-799;Güntzler;Fritz;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-800;Haase;Christian;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-801;Hauer;Matthias;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-803;Heck;Stefan;CDU/CSU;Nein;Ja;Nein;Ja;Abwesend;Abwesend;Abwesend;Ja;Nein;Ja;Abwesend
-805;Helfrich;Mark;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-809;Hoffmann;Alexander;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-810;Hoppenstedt;Hendrik;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-814;Irlstorfer;Erich;CDU/CSU;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Ja;Nein;Ja;Ja
-818;Karliczek;Anja;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-819;Kippels;Georg;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-820;Koob;Markus;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-821;Körber;Carsten;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-827;Launert;Silke;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Abwesend;Ja;Nein;Ja;Ja
-828;Leikert;Katja;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-830;Lenz;Andreas;CDU/CSU;Nein;Abwesend;Abwesend;Abwesend;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-833;Lindholz;Andrea;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-836;Magwas;Yvonne;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-841;Metzler;Jan;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-844;Müller (Braunschweig);Carsten;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-847;Oellers;Wilfried;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-848;Oßner;Florian;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-854;Radomski;Kerstin;CDU/CSU;Nein;Ja;Nein;Enthaltung;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-855;Radwan;Alexander;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-856;Rainer;Alois;CDU/CSU;Nein;Ja;Nein;Enthaltung;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-857;Schimke;Jana;CDU/CSU;Nein;Abwesend;Nein;Nein;Abwesend;Abwesend;Abwesend;Ja;Abwesend;Abwesend;Abwesend
-862;Sorge;Tino;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-863;Stefinger;Wolfgang;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-864;Stegemann;Albert;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-867;Steiniger;Johannes;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-872;Timmermann-Fechter;Astrid;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-873;Ullrich;Volker;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Abwesend;Abwesend
-880;Warken;Nina;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-882;Weisgerber;Anja;CDU/CSU;Nein;Ja;Nein;Ja;Abwesend;Abwesend;Abwesend;Ja;Nein;Abwesend;Abwesend
-884;Whittaker;Kai;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-890;Zeulner;Emmi;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-892;Annen;Niels;SPD;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-893;Baehrens;Heike;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-894;Bahr;Ulrike;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Nein;Nein;Ja;Ja;Ja
-899;Castellucci;Lars;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-900;Daldrup;Bernhard;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-902;Diaby;Karamba;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-903;Dittmar;Sabine;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Abwesend;Ja
-905;Esken;Saskia;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-906;Fechner;Johannes;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-911;Grötsch;Uli;SPD;Ja;Nein;Nein;Ja;Ja;Abwesend;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-912;Hagl-Kehl;Rita;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-913;Hakverdi;Metin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-915;Hartmann;Sebastian;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Abwesend
-916;Heidenblut;Dirk;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-917;Heinrich;Gabriela;SPD;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-920;Hitschler;Thomas;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-924;Junge;Frank;SPD;Ja;Nein;Abwesend;Abwesend;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-928;Katzmarek;Gabriele;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-930;Kiziltepe;Cansel;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-938;Mittag;Susanne;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Abwesend;Ja;Ja
-939;Müller;Bettina;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-940;Müntefering;Michelle;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-942;Özdemir (Duisburg);Mahmut;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-946;Poschmann;Sabine;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-948;Post (Minden);Achim;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Abwesend;Abwesend;Abwesend
-951;Rimkus;Andreas;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-952;Rohde;Dennis;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-953;Rosemann;Martin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-955;Rützel;Bernd;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-956;Saathoff;Johann;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-958;Scheer;Nina;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Abwesend;Nein;Ja;Ja;Ja
-959;Schiefner;Udo;SPD;Abwesend;Abwesend;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Abwesend
-962;Schmidt (Wetzlar);Dagmar;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-964;Schwarz;Andreas;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-967;Stadler;Svenja;SPD;Abwesend;Abwesend;Nein;Enthaltung;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-968;Stamm-Fibich;Martina;SPD;Ja;Nein;Nein;Ja;Ja;Abwesend;Ja;Nein;Ja;Ja;Abwesend
-969;Tausend;Claudia;SPD;Ja;Nein;Nein;Ja;Ja;Abwesend;Ja;Nein;Ja;Ja;Ja
-970;Thews;Michael;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-971;Träger;Carsten;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-972;Vöpel;Dirk;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-974;Westphal;Bernd;SPD;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-975;Wiese;Dirk;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-976;Yüksel;Gülistan;SPD;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-977;Zierke;Stefan;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-978;Zimmermann;Jens;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Abwesend
-1018;Renner;Martina;DIE LINKE.;Enthaltung;Nein;Ja;Abwesend;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1024;Amtsberg;Luise;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Abwesend;Nein;Abwesend;Abwesend;Abwesend
-1025;Baerbock;Annalena;BÜ90/GR;Ja;Nein;Abwesend;Abwesend;Abwesend;Abwesend;Ja;Nein;Ja;Ja;Ja
-1026;Brantner;Franziska;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1027;Brugger;Agnieszka;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1028;Dröge;Katharina;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1029;Gastel;Matthias;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1031;Janecek;Dieter;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1033;Kühn (Tübingen);Christian;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1034;Lemke;Steffi;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1036;Mihalic;Irene;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1038;Özdemir;Cem;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Abwesend;Nein;Ja;Ja;Abwesend
-1039;Rüffer;Corinna;BÜ90/GR;Ja;Abwesend;Abwesend;Abwesend;Ja;Ja;Abwesend;Nein;Ja;Ja;Abwesend
-1040;Schauws;Ulle;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1041;Schulz-Asche;Kordula;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1042;Verlinden;Julia;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1044;Rupprecht;Albert;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1046;Petry;Christian;SPD;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1047;Jung;Andreas;CDU/CSU;Nein;Ja;Abwesend;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1048;Schieder;Marianne;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1051;Glöckner;Angelika;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1056;Müller (Chemnitz);Detlef;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1061;Ryglewski;Sarah;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Abwesend;Ja
-1065;Berghegger;André;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1067;Hahn;André;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1071;Coße;Jürgen;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1073;Kemmer;Ronja;CDU/CSU;Nein;Ja;Nein;Ja;Abwesend;Abwesend;Abwesend;Ja;Nein;Ja;Ja
-1080;Altenkamp;Norbert Maria;CDU/CSU;Nein;Ja;Nein;Ja;Abwesend;Abwesend;Abwesend;Ja;Nein;Ja;Ja
-1081;Amthor;Philipp;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Abwesend
-1084;Biadacz;Marc;CDU/CSU;Nein;Abwesend;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1085;Brand (Fulda);Michael;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1086;Breher;Silvia;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1087;Brehm;Sebastian;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1088;Brodesser;Carsten;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1089;Damerow;Astrid;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1090;Erndl;Thomas;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1092;Heilmann;Thomas;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1093;Henrichmann;Marc;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Abwesend
-1095;Jung;Ingmar;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1097;Kießling;Michael;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1100;Lehmann;Jens;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1102;Loos;Bernhard;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1104;Müller;Axel;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1105;Müller;Sepp;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1106;Nicolaisen;Petra;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1107;Oster;Josef;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1108;Pilsinger;Stephan;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1109;Ploß;Christoph;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1110;Rouenhoff;Stefan;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1113;Schön;Nadine;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1114;Schreiner;Felix;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Abwesend
-1116;Simon;Björn;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1117;Staffler;Katrin;CDU/CSU;Nein;Ja;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-1120;Tebroke;Hermann-Josef;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1121;Thies;Hans-Jürgen;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Abwesend
-1122;Throm;Alexander;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1124;Uhl;Markus;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1125;Vieregge;Kerstin;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1126;Vries;Christoph;CDU/CSU;Nein;Ja;Nein;Ja;Abwesend;Abwesend;Abwesend;Ja;Nein;Ja;Ja
-1127;Wadephul;Johann David;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Abwesend;Abwesend;Abwesend
-1129;Ziemiak;Paul;CDU/CSU;Nein;Ja;Nein;Ja;Abwesend;Abwesend;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1130;Breymaier;Leni;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1131;Budde;Katrin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1132;Dilcher;Esther;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1133;Esdar;Wiebke;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1134;Fahimi;Yasmin;SPD;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1135;Gremmels;Timon;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1136;Kaiser;Elisabeth;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1138;Lindh;Helge;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Abwesend;Ja
-1139;Maas;Heiko;SPD;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Ja;Nein;Abwesend;Abwesend;Abwesend
-1141;Mohrs;Falko;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1142;Moll;Claudia;SPD;Ja;Nein;Abwesend;Abwesend;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1143;Möller;Siemtje;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1144;Ortleb;Josephine;SPD;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-1145;Schmid;Nils;SPD;Ja;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1146;Schmidt;Uwe;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1147;Schraps;Johannes;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1148;Schrodi;Michael;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1152;Stein;Mathias;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1153;Töns;Markus;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1154;Völlers;Marja-Liisa;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1155;Baumann;Bernd;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1156;Bernhard;Marc;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1157;Bleck;Andreas;AfD;Nein;Nein;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1158;Boehringer;Peter;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1159;Brandner;Stephan;AfD;Nein;Nein;Nein;Nein;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1160;Braun;Jürgen;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1161;Bühl;Marcus;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1163;Bystron;Petr;AfD;Nein;Nein;Enthaltung;Nein;Nein;Abwesend;Nein;Abwesend;Abwesend;Abwesend;Abwesend
-1164;Chrupalla;Tino;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1166;Curio;Gottfried;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Abwesend;Nein;Ja;Nein
-1168;Ehrhorn;Thomas;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Abwesend
-1170;Espendiller;Michael;AfD;Abwesend;Abwesend;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1171;Felser;Peter;AfD;Abwesend;Abwesend;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1172;Friedhoff;Dietmar;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1174;Frohnmaier;Markus;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Abwesend
-1175;Frömming;Götz;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1176;Gauland;Alexander;AfD;Nein;Nein;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1181;Gottschalk;Kay;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1183;Harder-Kühnel;Mariana Iris;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1186;Haug;Jochen;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1191;Hess;Martin;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1193;Hilse;Karsten;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Abwesend;Nein
-1194;Höchst;Nicole;AfD;Nein;Nein;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Nein;Nein;Nein;Nein
-1197;Holm;Leif-Erik;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1198;Huber;Johannes;AfD;Nein;Nein;Enthaltung;Nein;;;;;;;
-1199;Jacobi;Fabian;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1200;Jongen;Marc;AfD;Nein;Nein;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1203;Keuter;Stefan;AfD;Abwesend;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1204;Kleinwächter;Norbert;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Abwesend;Nein;Ja;Nein
-1205;Komning;Enrico;AfD;Nein;Nein;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein;Ja;Abwesend
-1206;König;Jörn;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1207;Kotré;Steffen;AfD;Abwesend;Nein;Enthaltung;Nein;Nein;Abwesend;Abwesend;Nein;Nein;Abwesend;Abwesend
-1208;Kraft;Rainer;AfD;Nein;Nein;Nein;Nein;Abwesend;Abwesend;Abwesend;Nein;Nein;Nein;Nein
-1209;Lucassen;Rüdiger;AfD;Nein;Nein;Enthaltung;Nein;Nein;Abwesend;Nein;Nein;Nein;Ja;Nein
-1214;Miazga;Corinna;AfD;Nein;Nein;Enthaltung;Nein;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-1218;Münzenmaier;Sebastian;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1220;Nolte;Jan Ralf;AfD;Nein;Nein;Enthaltung;Nein;Abwesend;Abwesend;Nein;Enthaltung;Nein;Ja;Nein
-1222;Otten;Gerold;AfD;Abwesend;Abwesend;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1224;Peterka;Tobias Matthias;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Enthaltung;Nein
-1226;Pohl;Jürgen;AfD;Abwesend;Abwesend;Abwesend;Abwesend;Nein;Nein;Nein;Abwesend;Abwesend;Abwesend;Abwesend
-1227;Protschka;Stephan;AfD;Nein;Nein;Enthaltung;Nein;Abwesend;Abwesend;Abwesend;Nein;Nein;Ja;Nein
-1228;Reichardt;Martin;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Abwesend
-1229;Renner;Martin Erwin;AfD;Abwesend;Abwesend;Enthaltung;Nein;Nein;Abwesend;Nein;Abwesend;Nein;Ja;Nein
-1231;Schielke-Ziesing;Ulrike;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1233;Schneider;Jörg;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1234;Schulz;Uwe;AfD;Nein;Nein;Enthaltung;Nein;Nein;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-1235;Seitz;Thomas;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1236;Sichert;Martin;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1238;Spaniel;Dirk;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1239;Springer;René;AfD;Nein;Nein;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1240;Storch;Beatrix;AfD;Nein;Nein;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1241;Weidel;Alice;AfD;Abwesend;Abwesend;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein;Ja;Abwesend
-1242;Weyel;Harald;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Enthaltung;Nein
-1243;Wiehle;Wolfgang;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1245;Wirth;Christian;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1246;Witt;Uwe;AfD;Abwesend;Abwesend;Abwesend;Abwesend;;;;;;;
-1248;Alt;Renata;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1249;Bauer;Nicole;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1250;Beeck;Jens;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1253;Brandenburg (Rhein-Neckar);Jens;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1254;Busen;Karlheinz;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1255;Cronenberg;Carl-Julius;FDP;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1257;Dürr;Christian;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1259;Faber;Marcus;FDP;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1260;Föst;Daniel;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1261;Hacker;Thomas;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1262;Helling-Plahr;Katrin;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1263;Herbrand;Markus;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1264;Herbst;Torsten;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1265;Hessel;Katja;FDP;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1266;Hocker;Gero Clemens;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1267;Hoffmann;Christoph;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1268;Houben;Reinhard;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1270;In der Beek;Olaf;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1271;Jensen;Gyde;FDP;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1274;Klein;Karsten;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1277;Kluckert;Daniela;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1278;Köhler;Lukas;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1279;Konrad;Carina;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1280;Kubicki;Wolfgang;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-1283;Lambsdorff;Alexander;FDP;Ja;Nein;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1284;Lechte;Ulrich;FDP;Ja;Nein;Nein;Nein;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1285;Lindner;Christian;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-1286;Mansmann;Till;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1288;Meyer;Christoph;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1289;Müller;Alexander;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1291;Müller-Rosentritt;Frank;FDP;Ja;Nein;Nein;Enthaltung;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1292;Reuther;Bernd;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1293;Sattelberger;Thomas;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1294;Sauter;Christian;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1296;Seestern-Pauly;Matthias;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1298;Stark-Watzinger;Bettina;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Abwesend;Abwesend
-1299;Strack-Zimmermann;Marie-Agnes;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1300;Strasser;Benjamin;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1302;Teuteberg;Linda;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1303;Theurer;Michael;FDP;Ja;Nein;Abwesend;Abwesend;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-1304;Ullmann;Andrew;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1305;Ullrich;Gerald;FDP;Ja;Nein;Nein;Enthaltung;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1306;Weeser;Sandra;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1307;Westig;Nicole;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1309;Akbulut;Gökay;DIE LINKE.;Enthaltung;Nein;Abwesend;Enthaltung;Nein;Nein;Nein;Nein;Abwesend;Abwesend;Abwesend
-1316;Domscheit-Berg;Anke;DIE LINKE.;Abwesend;Abwesend;Ja;Enthaltung;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-1317;Ferschl;Susanne;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1322;Meiser;Pascal;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Abwesend;Nein;Nein;Abwesend;Nein
-1323;Mohamed Ali;Amira;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1324;Nastic;Zaklin;DIE LINKE.;Enthaltung;Abwesend;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1325;Pellmann;Sören;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1326;Perli;Victor;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1328;Riexinger;Bernd;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1332;Tatti;Jessica;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1334;Badum;Lisa;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1337;Bayram;Canan;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Nein;Nein;Enthaltung;Nein;Nein
-1338;Christmann;Anna;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1339;Gelbhaar;Stefan;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Ja;Ja;Nein;Ja;Ja;Ja
-1340;Grundl;Erhard;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1341;Hoffmann;Bettina;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1343;Kappert-Gonther;Kirsten;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1344;Lehmann;Sven;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Abwesend;Abwesend;Abwesend
-1345;Müller;Claudia;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-1346;Nestle;Ingrid;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1347;Polat;Filiz;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1348;Rottmann;Manuela;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1349;Schmidt;Stefan;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1353;Cotar;Joana;AfD;Abwesend;Abwesend;Enthaltung;Nein;Abwesend;Abwesend;Abwesend;Nein;Nein;Ja;Nein
-1354;Glaser;Albrecht;AfD;Abwesend;Abwesend;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Abwesend;Abwesend
-1355;Kuhle;Konstantin;FDP;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1356;Vogel (Olpe);Johannes;FDP;Ja;Nein;;;;;;;;;
-1357;Link (Heilbronn);Michael Georg;FDP;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1359;Brandenburg (Südpfalz);Mario;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1363;Baradari;Nezahat;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1368;Heidt;Peter;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Abwesend;Ja;Ja
-1371;Weingarten;Joe;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1373;Hanke;Reginald;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Enthaltung;Nein;Ja;Enthaltung;Enthaltung
-1375;Lehmann;Sylvia;SPD;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Abwesend;Nein;Ja;Ja;Ja
-1376;Bubendorfer-Licht;Sandra;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1381;Martin;Dorothee;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1384;Dahmen;Janosch;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1390;Mackensen-Geis;Isabel;SPD;Abwesend;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1391;Emmerich;Marcel;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1397;Abdi;Sanae;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Abwesend;Abwesend;Abwesend
-1398;Ahmetovic;Adis;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1399;Alabali-Radovan;Reem;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1400;Andres;Dagmar;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1401;Arlt;Johannes;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1402;Baldy;Daniel;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1403;Becker;Holger;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1404;Berghahn;Jürgen;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1405;Bergt;Bengt;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1406;Blankenburg;Jakob;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1407;Cademartori Dujisin;Isabel;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-1408;Demir;Hakan;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1409;Diedenhofen;Martin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1410;Dieren;Jan;SPD;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-1411;Döring;Felix;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1412;Droßmann;Falko;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1413;Echeverria;Axel;SPD;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1414;Eichwede;Sonja;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1415;Engelhardt;Heike;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1416;Fäscher;Ariane;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1417;Fiedler;Sebastian;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1418;Funke;Fabian;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1419;Gava;Manuel;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1420;Heiligenstadt;Frauke;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1421;Hennig;Anke;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1422;Heselhaus;Nadine;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1423;Hostert;Jasmina;SPD;Abwesend;Abwesend;Abwesend;Abwesend;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1424;Hubertz;Verena;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1425;Hümpfer;Markus;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1426;Karaahmetoglu;Macit;SPD;Ja;Abwesend;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1427;Kasper;Carlos;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1428;Kassautzki;Anna;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1429;Keller;Rainer Johannes;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1430;Kersten;Franziska;SPD;Ja;Nein;Abwesend;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1431;Kleebank;Helmut;SPD;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1432;Klinck;Kristian;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1433;Klose;Annika;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1434;Klüssendorf;Tim;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1435;Koß;Simona;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1436;Kreiser;Dunja;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1437;Kröber;Martin;SPD;Ja;Nein;Abwesend;Abwesend;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1438;Kühnert;Kevin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1439;Lahrkamp;Sarah;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1440;Larem;Andreas;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1441;Leiser;Kevin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1442;Licina-Bode;Luiza;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1443;Limbacher;Esra;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Abwesend;Abwesend;Abwesend
-1444;Lugk;Bettina;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1445;Machalet;Tanja;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1446;Malottki;Erik;SPD;Abwesend;Nein;Nein;Ja;Ja;Ja;Nein;Nein;Ja;Ja;Ja
-1447;Mann;Holger;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1448;Mansoori;Kaweh;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1449;Martens;Zanda;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1450;Marvi;Parsa;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1451;Mascheck;Franziska;SPD;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1452;Mehltretter;Andreas;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1453;Mehmet Ali;Takis;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1454;Mesarosch;Robin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1455;Michel;Kathrin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1456;Mieves;Matthias David;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1457;Müller;Michael;SPD;Abwesend;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1458;Nasr;Rasha;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1459;Nickholz;Brian;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1460;Nürnberger;Jörg;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1461;Oehl;Lennard;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1462;Pantazis;Christos;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1463;Papenbrock;Wiebke;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1464;Papendieck;Mathias;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-1465;Pawlik;Natalie;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1466;Peick;Jens;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1467;Philippi;Andreas;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1468;Plobner;Jan;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1469;Rhie;Ye-One;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1470;Roloff;Sebastian;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1471;Rosenthal;Jessica;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1472;Rudolph;Thorsten;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1473;Rudolph;Tina;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1474;Schäfer;Ingo;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1475;Schamber;Rebecca;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1476;Schätzl;Johannes;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1477;Schierenbeck;Peggy;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1478;Schisanowski;Timo;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1479;Schmid;Christoph;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1480;Schneider;Daniel;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1481;Scholz;Olaf;SPD;Ja;Abwesend;Abwesend;Abwesend;Ja;Ja;Ja;Nein;Ja;Abwesend;Abwesend
-1482;Schreider;Christian;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1483;Schulze;Svenja;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-1484;Seitzl;Lina;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1485;Stegner;Ralf;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1486;Sthamer;Nadja;SPD;Ja;Nein;Abwesend;Abwesend;Ja;Ja;Nein;Nein;Ja;Ja;Ja
-1487;Stüwe;Ruppert;SPD;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Nein
-1488;Troff-Schaffarzyk;Anja;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1489;Türk-Nachbaur;Derya;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1490;Ullrich;Frank;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1491;Wagner;Carolin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1492;Wallstein;Maja;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1493;Walter;Hannes;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1494;Wegge;Carmen;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1495;Wegling;Melanie;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1496;Werner;Lena;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1497;Wollmann;Herbert;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1498;Zorn;Armand;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1499;Zschau;Katrin;SPD;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1500;Abraham;Knut;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1501;Borchardt;Simone;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1502;Breilmann;Michael;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1503;Bröhr;Marlon;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1504;Bury;Yannick;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1505;Czaja;Mario;CDU/CSU;Nein;Ja;Nein;Abwesend;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1506;Edelhäußer;Ralph;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1507;Engelhard;Alexander;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1508;Englhardt-Kopf;Martina;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1509;Geissler;Jonas;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1510;Gramling;Fabian;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1511;Gräßle;Ingeborg;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1512;Güler;Serap;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1513;Hierl;Susanne;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1514;Hoppermann;Franziska;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1515;Janssen;Anne;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1516;Klein;Ottilie;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1517;Klöckner;Julia;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1518;König;Anne;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1519;Kuban;Tilman Moritz;CDU/CSU;Nein;Ja;;;;;;;;;
-1520;Laschet;Armin;CDU/CSU;Nein;Ja;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja
-1521;Mack;Klaus;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1522;Mayer-Lay;Volker;CDU/CSU;Nein;Ja;Nein;Enthaltung;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1523;Merz;Friedrich;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Abwesend
-1524;Mörseburg;Maximilian;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1525;Müller;Florian;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1526;Nacke;Stefan;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1527;Oppelt;Moritz;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1528;Plum;Martin;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1529;Rehbaum;Henning;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1530;Reichel;Markus;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1531;Rohwer;Lars;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1532;Röwekamp;Thomas;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Abwesend
-1533;Santos Firnhaber;Catarina;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1534;Schenderlein;Christiane;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1535;Schwarz;Armin;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1536;Stöcker;Diana;CDU/CSU;Nein;Ja;Abwesend;Abwesend;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1537;Stumpp;Christina;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1538;Vogt;Oliver;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1539;Weiss;Maria-Lena;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1540;Wiener;Klaus;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1541;Winkler;Tobias;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Abwesend;Nein;Ja;Ja
-1542;Wittmann;Mechthilde;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1543;Wulf;Mareike Lotte;CDU/CSU;Nein;Ja;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1544;Zippelius;Nicolas;CDU/CSU;Abwesend;Abwesend;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1545;Aeffner;Stephanie;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1546;Audretsch;Andreas;BÜ90/GR;Ja;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1547;Außendorf;Maik;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1548;Bacherle;Tobias;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1549;Banaszak;Felix;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Abwesend;Ja;Ja
-1550;Bär;Karl;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1551;Beck;Katharina;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1552;Benner;Lukas;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1553;Bsirske;Frank;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Abwesend;Abwesend
-1554;Detzer;Sandra;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1555;Düring;Deborah;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1556;Eckert;Leon;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1557;Fester;Emilia;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1558;Gambir;Schahina;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1559;Ganserer;Tessa;BÜ90/GR;Abwesend;Abwesend;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1560;Gesenhues;Jan-Niclas;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1561;Grau;Armin;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1562;Grützmacher;Sabine;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1563;Habeck;Robert;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1564;Heitmann;Linda;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1565;Henneberger;Kathrin;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Nein;Nein;Ja;Ja;Nein
-1566;Herrmann;Bernhard;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1567;Hönel;Bruno;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Abwesend;Ja;Ja
-1568;Kaddor;Lamya;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1569;Kellner;Michael;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1570;Khan;Misbah;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1571;Kopf;Chantal;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1572;Kraft;Laura;BÜ90/GR;Ja;Nein;Abwesend;Abwesend;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1573;Krämer;Philip;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1574;Lang;Ricarda;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1575;Liebert;Anja;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1576;Limburg;Helge;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-1577;Loop;Denise;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1578;Lucks;Max;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1579;Lührmann;Anna;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Abwesend;Nein;Ja;Ja;Ja
-1580;Mayer;Zoe;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1581;Menge;Susanne;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1582;Michaelsen;Swantje Henrike;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1583;Mijatovic;Boris;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1584;Müller;Sascha;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1585;Nanni;Sara;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1586;Nick;Ophelia;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1587;Otte;Karoline;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1588;Pahlke;Julian;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1589;Piechotta;Paula;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1590;Reinalter;Anja;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1591;Saleh;Kassem Taher;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;;;;
-1592;Schäfer;Jamila;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1593;Schäfer;Sebastian;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1594;Schönberger;Marlene;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1595;Schröder;Christina-Johanne;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-1596;Sekmen;Melis;BÜ90/GR;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Abwesend;Nein;Ja;Ja;Ja
-1597;Slawik;Nyke;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Ja;Ja;Ja
-1598;Spallek;Anne Monika;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1599;Spellerberg;Merle;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1600;Stahr;Nina;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1601;Steffen;Till;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1602;Steinmüller;Hanna;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1603;Tesfaiesus;Awet;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1604;Uhlig;Katrin;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1605;Wagener;Niklas;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1606;Wagener;Robin;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1607;Wagner;Johannes;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1608;Weishaupt;Saskia;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1609;Wenzel;Stefan;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1610;Winklmann;Tina;BÜ90/GR;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1611;Abel;Valentin;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1612;Adler;Katja;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1613;Al-Halak;Muhanad;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Abwesend
-1614;Bodtke;Ingo;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1615;Boginski;Friedhelm;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1616;Funke-Kaiser;Maximilian;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1617;Gassner-Herz;Martin;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1618;Gerschau;Knut;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1619;Hartewig;Philipp;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1620;Harzer;Ulrike;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1621;Jurisch;Ann-Veruschka;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1622;Kruse;Michael;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1623;Lenders;Jürgen;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1624;Lieb;Thorsten;FDP;Ja;Abwesend;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1625;Lütke;Kristine;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1626;Merten;Anikó;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1627;Mordhorst;Maximilian;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1628;Raffelhüschen;Claudia;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1629;Redder;Volker;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1630;Schröder;Ria;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1631;Schulz;Anja;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1632;Seiter;Stephan;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1633;Semet;Rainer;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1634;Stockmeier;Konrad;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1635;Teutrine;Jens;FDP;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1636;Tippelt;Nico;FDP;Ja;Nein;Nein;Ja;Abwesend;Abwesend;Ja;Nein;Ja;Ja;Ja
-1637;Bachmann;Carolin;AfD;Abwesend;Abwesend;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1638;Baum;Christina;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Enthaltung;Nein
-1639;Beckamp;Roger;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Abwesend;Abwesend;Abwesend;Abwesend
-1640;Bochmann;René;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1641;Bollmann;Gereon;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1642;Brandes;Dirk;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1643;Dietz;Thomas;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Abwesend;Abwesend;Ja;Abwesend
-1644;Farle;Robert;AfD;Nein;Nein;Ja;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1645;Gnauck;Hannes;AfD;Nein;Nein;Abwesend;Abwesend;Nein;Abwesend;Nein;Nein;Nein;Ja;Nein
-1646;Huy;Gerrit;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Abwesend;Abwesend
-1647;Janich;Steffen;AfD;Abwesend;Abwesend;Enthaltung;Nein;Nein;Nein;Nein;Abwesend;Nein;Enthaltung;Nein
-1648;Kaufmann;Malte;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1649;Kaufmann;Michael;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1650;Lenk;Barbara;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Abwesend;Nein;Ja;Nein
-1651;Moncsek;Mike;AfD;Nein;Nein;Ja;Nein;Nein;Nein;Nein;Abwesend;Abwesend;Abwesend;Abwesend
-1652;Moosdorf;Matthias;AfD;Nein;Nein;Enthaltung;Nein;Abwesend;Nein;Nein;Nein;Nein;Ja;Nein
-1653;Naujok;Edgar;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Abwesend
-1654;Rinck;Frank;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1655;Schattner;Bernd;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1656;Schmidt;Eugen;AfD;Nein;Nein;Enthaltung;Nein;Nein;Abwesend;Nein;Nein;Nein;Ja;Abwesend
-1657;Schmidt;Jan Wenzel;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1658;Stöber;Klaus;AfD;Nein;Nein;Ja;Nein;Nein;Nein;Nein;Ja;Nein;Ja;Nein
-1659;Wundrak;Joachim;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1660;Ziegler;Kay-Uwe;AfD;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1661;Al-Dailami;Ali;DIE LINKE.;Abwesend;Abwesend;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1662;Görke;Christian;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1663;Gürpinar;Ates;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1664;Hennig-Wellsow;Susanne;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Abwesend;Abwesend;Nein;Nein;Nein;Nein;Nein
-1665;Latendorf;Ina;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Abwesend;Nein;Nein;Nein;Nein;Nein
-1666;Leye;Christian;DIE LINKE.;Enthaltung;Nein;Abwesend;Abwesend;Nein;Nein;Abwesend;Nein;Nein;Nein;Nein
-1667;Reichinnek;Heidi;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1668;Wissler;Janine;DIE LINKE.;Enthaltung;Nein;Ja;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1669;Helferich;Matthias;Fraktionslos;Nein;Nein;Enthaltung;Nein;Nein;Nein;Nein;Nein;Nein;Ja;Nein
-1670;Seidler;Stefan;Fraktionslos;Ja;Nein;Nein;Ja;Ja;Ja;Ja;Abwesend;Abwesend;Abwesend;Abwesend
-1671;Kuban;Tilman;CDU/CSU;;;Nein;Ja;Nein;Nein;Ja;Ja;Nein;Ja;Ja
-1672;Vogel;Johannes;FDP;;;Nein;Ja;Ja;Ja;Ja;Nein;Ja;Ja;Ja
-1673;Bünger;Clara;DIE LINKE.;;;;;Nein;Nein;Nein;Nein;Nein;Nein;Nein
-1674;Huber;Johannes;Fraktionslos;;;;;Nein;Nein;Nein;Abwesend;Nein;Abwesend;Nein
-1675;Witt;Uwe;Fraktionslos;;;;;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend;Abwesend
-1676;Taher Saleh;Kassem;BÜ90/GR;;;;;;;;Nein;Ja;Ja;Ja
+﻿,Name,Vorname,Fraktion/Gruppe,20-003-01,20-003-02,20-007-01,20-007-02,20-014-02,20-014-03,20-015-01,20-021-01,20-022-01,20-022-02,20-022-03
+2,Aumer,Peter,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+3,Bär,Dorothee,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Abwesend,Ja,Abwesend,Abwesend,Abwesend
+4,Bareiß,Thomas,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+11,Beyer,Peter,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+12,Bilger,Steffen,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+21,Brandl,Reinhard,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+24,Braun,Helge,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Nein,Nein,Abwesend,Ja,Nein,Ja,Ja
+25,Brehmer,Heike,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+26,Brinkhaus,Ralph,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+28,Connemann,Gitta,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+29,Dobrindt,Alexander,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+33,Ferlemann,Enak,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Ja,Nein,Ja,Ja
+41,Friedrich (Hof),Hans-Peter,CDU/CSU,Nein,Abwesend,Nein,Nein,Nein,Nein,Abwesend,Ja,Abwesend,Abwesend,Abwesend
+42,Frieser,Michael,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+47,Gädechens,Ingo,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+49,Gebhart,Thomas,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+59,Gröhe,Hermann,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+60,Grosse-Brömer,Michael,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+61,Grübel,Markus,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Abwesend
+62,Grund,Manfred,CDU/CSU,Nein,Ja,Nein,Nein,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+63,Grütters,Monika,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+64,Gutting,Olav,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Nein,Nein,Abwesend,Ja,Nein,Ja,Ja
+65,Hahn,Florian,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Abwesend,Abwesend
+67,Hardt,Jürgen,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+71,Heil,Mechthild,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+75,Hennrich,Michael,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+76,Heveling,Ansgar,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+79,Hirte,Christian,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+85,Hüppe,Hubert,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+86,Jarzombek,Thomas,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+99,Kiesewetter,Roderich,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+102,Klein,Volkmar,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+104,Knoerig,Axel,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+105,Koeppen,Jens,CDU/CSU,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Ja,Nein,Abwesend,Abwesend
+111,Krichbaum,Gunther,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Abwesend
+112,Krings,Günter,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+121,Lange,Ulrich,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+123,Lehrieder,Paul,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+127,Linnemann,Carsten,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+128,Lips,Patricia,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Abwesend
+129,Luczak,Jan-Marco,CDU/CSU,Nein,Ja,Nein,Ja,Abwesend,Abwesend,Abwesend,Ja,Nein,Ja,Ja
+130,Ludwig,Daniela,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+135,Mattfeldt,Andreas,CDU/CSU,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+136,Mayer (Altötting),Stephan,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Ja,Abwesend,Abwesend,Abwesend
+137,Meister,Michael,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+141,Middelberg,Mathias,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+143,Monstadt,Dietrich,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+146,Müller (Erlangen),Stefan,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+153,Otte,Henning,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+164,Rachel,Thomas,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+165,Ramsauer,Peter,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Nein,Nein,Abwesend,Ja,Abwesend,Abwesend,Abwesend
+169,Rief,Josef,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Abwesend,Ja
+173,Röttgen,Norbert,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+175,Rüddel,Erwin,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+178,Schäuble,Wolfgang,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+180,Scheuer,Andreas,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Nein,Nein,Ja,Ja,Nein,Abwesend,Abwesend
+186,Schnieder,Patrick,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+194,Seif,Detlef,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+199,Silberhorn,Thomas,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+201,Spahn,Jens,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Nein,Nein,Ja,Ja,Nein,Abwesend,Abwesend
+205,Stetten,Christian,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+206,Stier,Dieter,CDU/CSU,Nein,Enthaltung,Nein,Abwesend,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+207,Storjohann,Gero,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+208,Stracke,Stephan,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+209,Straubinger,Max,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+215,Tillmann,Antje,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+222,Wanderwitz,Marco,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Abwesend,Ja,Nein,Ja,Ja
+226,Weiss (Wesel I),Sabine,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+230,Widmann-Mauz,Annette,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+231,Willsch,Klaus-Peter,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+232,Winkelmeier-Becker,Elisabeth,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+243,Bartol,Sören,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+244,Bas,Bärbel,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+269,Franke,Edgar,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+272,Gerdes,Michael,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+273,Gerster,Martin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+278,Griese,Kerstin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Abwesend,Nein,Ja,Ja,Ja
+283,Hagedorn,Bettina,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+286,Heil (Peine),Hubertus,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Abwesend
+287,Hellmich,Wolfgang,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Abwesend
+296,Juratovic,Josip,SPD,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+297,Kaczmarek,Oliver,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+301,Klingbeil,Lars,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+303,Kofler,Bärbel,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+306,Kramme,Anette,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+311,Lauterbach,Karl,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+317,Mast,Katja,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Abwesend
+321,Miersch,Matthias,SPD,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+323,Mützenich,Rolf,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Abwesend,Abwesend
+325,Nietan,Dietmar,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+329,Özoguz,Aydan,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+340,Rix,Sönke,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+344,Roth (Heringen),Michael,SPD,Ja,Nein,Abwesend,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+348,Schäfer (Bochum),Axel,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Abwesend
+354,Schneider (Erfurt),Carsten,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+358,Schwabe,Frank,SPD,Ja,Nein,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+361,Schwartze,Stefan,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+362,Schwarzelühr-Sutter,Rita,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+385,Aschenberg-Dugnus,Christine,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+395,Buschmann,Marco,FDP,Ja,Nein,Abwesend,Abwesend,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+399,Djir-Sarai,Bijan,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+406,Fricke,Otto,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+415,Höferlin,Manuel,FDP,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+421,Kober,Pascal,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+432,Lindemann,Lars,FDP,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+436,Luksic,Oliver,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+454,Schäffler,Frank,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+460,Skudelny,Judith,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Abwesend
+466,Thomae,Stephan,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+467,Todtenhausen,Manfred,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+468,Toncar,Florian,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+474,Wissing,Volker,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+622,Reinhold,Hagen,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+633,Bartsch,Dietmar,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+636,Birkwald,Matthias W.,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Enthaltung,Nein,Nein
+643,Dagdelen,Sevim,DIE LINKE.,Enthaltung,Nein,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Nein,Nein,Abwesend
+648,Ernst,Klaus,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein
+650,Gohlke,Nicole,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Abwesend,Nein,Nein,Nein,Nein
+653,Gysi,Gregor,DIE LINKE.,Enthaltung,Nein,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+658,Hunko,Andrej,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+661,Kipping,Katja,DIE LINKE.,Enthaltung,Nein,Abwesend,Abwesend,,,,,,,
+663,Korte,Jan,DIE LINKE.,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Nein,Nein,Nein,Abwesend
+666,Lay,Caren,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+668,Lenkert,Ralph,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+672,Lötzsch,Gesine,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+673,Lutze,Thomas,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Abwesend,Abwesend,Abwesend,Nein,Nein,Nein,Nein
+676,Möhring,Cornelia,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Abwesend,Abwesend,Abwesend,Abwesend
+680,Pau,Petra,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein
+690,Sitte,Petra,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+697,Ulrich,Alexander,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+698,Vogler,Kathrin,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+700,Wagenknecht,Sahra,DIE LINKE.,Enthaltung,Nein,Ja,Nein,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+713,Deligöz,Ekin,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Ja,Nein,Ja,Ja,Ja
+715,Ebner,Harald,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+718,Gehring,Kai,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+719,Göring-Eckardt,Katrin,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Abwesend,Ja,Nein,Ja,Abwesend,Ja
+720,Haßelmann,Britta,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+723,Hofreiter,Anton,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+728,Keul,Katja,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+731,Kindler,Sven-Christian,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+732,Klein-Schmeink,Maria,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+736,Krischer,Oliver,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+739,Künast,Renate,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+740,Kurth,Markus,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+743,Lindner,Tobias,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Abwesend,Ja,Ja
+747,Müller-Gemmeke,Beate,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+748,Notz,Konstantin,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+749,Nouripour,Omid,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+752,Paus,Lisa,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+754,Rößner,Tabea,BÜ90/GR,Ja,Nein,Abwesend,Abwesend,Ja,Ja,Ja,Nein,Abwesend,Ja,Ja
+755,Roth (Augsburg),Claudia,BÜ90/GR,Ja,Nein,Abwesend,Abwesend,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+763,Strengmann-Kuhn,Wolfgang,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+767,Trittin,Jürgen,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Abwesend,Abwesend,Abwesend
+770,Walter-Rosenheimer,Beate,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+776,Albani,Stephan,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+778,Auernhammer,Artur,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Abwesend,Ja,Nein,Ja,Ja
+785,Donth,Michael,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+786,Durz,Hansjörg,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+789,Färber,Hermann,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+790,Feiler,Uwe,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+791,Frei,Thorsten,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+797,Grundmann,Oliver,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Abwesend,Ja
+799,Güntzler,Fritz,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+800,Haase,Christian,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+801,Hauer,Matthias,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+803,Heck,Stefan,CDU/CSU,Nein,Ja,Nein,Ja,Abwesend,Abwesend,Abwesend,Ja,Nein,Ja,Abwesend
+805,Helfrich,Mark,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+809,Hoffmann,Alexander,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+810,Hoppenstedt,Hendrik,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+814,Irlstorfer,Erich,CDU/CSU,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Ja,Nein,Ja,Ja
+818,Karliczek,Anja,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+819,Kippels,Georg,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+820,Koob,Markus,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+821,Körber,Carsten,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+827,Launert,Silke,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Abwesend,Ja,Nein,Ja,Ja
+828,Leikert,Katja,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+830,Lenz,Andreas,CDU/CSU,Nein,Abwesend,Abwesend,Abwesend,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+833,Lindholz,Andrea,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+836,Magwas,Yvonne,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+841,Metzler,Jan,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+844,Müller (Braunschweig),Carsten,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+847,Oellers,Wilfried,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+848,Oßner,Florian,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+854,Radomski,Kerstin,CDU/CSU,Nein,Ja,Nein,Enthaltung,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+855,Radwan,Alexander,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+856,Rainer,Alois,CDU/CSU,Nein,Ja,Nein,Enthaltung,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+857,Schimke,Jana,CDU/CSU,Nein,Abwesend,Nein,Nein,Abwesend,Abwesend,Abwesend,Ja,Abwesend,Abwesend,Abwesend
+862,Sorge,Tino,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+863,Stefinger,Wolfgang,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+864,Stegemann,Albert,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+867,Steiniger,Johannes,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+872,Timmermann-Fechter,Astrid,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+873,Ullrich,Volker,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Abwesend,Abwesend
+880,Warken,Nina,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+882,Weisgerber,Anja,CDU/CSU,Nein,Ja,Nein,Ja,Abwesend,Abwesend,Abwesend,Ja,Nein,Abwesend,Abwesend
+884,Whittaker,Kai,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+890,Zeulner,Emmi,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+892,Annen,Niels,SPD,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+893,Baehrens,Heike,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+894,Bahr,Ulrike,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Nein,Nein,Ja,Ja,Ja
+899,Castellucci,Lars,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+900,Daldrup,Bernhard,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+902,Diaby,Karamba,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+903,Dittmar,Sabine,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Abwesend,Ja
+905,Esken,Saskia,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+906,Fechner,Johannes,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+911,Grötsch,Uli,SPD,Ja,Nein,Nein,Ja,Ja,Abwesend,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+912,Hagl-Kehl,Rita,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+913,Hakverdi,Metin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+915,Hartmann,Sebastian,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Abwesend
+916,Heidenblut,Dirk,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+917,Heinrich,Gabriela,SPD,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+920,Hitschler,Thomas,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+924,Junge,Frank,SPD,Ja,Nein,Abwesend,Abwesend,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+928,Katzmarek,Gabriele,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+930,Kiziltepe,Cansel,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+938,Mittag,Susanne,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Abwesend,Ja,Ja
+939,Müller,Bettina,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+940,Müntefering,Michelle,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+942,Özdemir (Duisburg),Mahmut,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+946,Poschmann,Sabine,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+948,Post (Minden),Achim,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Abwesend,Abwesend,Abwesend
+951,Rimkus,Andreas,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+952,Rohde,Dennis,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+953,Rosemann,Martin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+955,Rützel,Bernd,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+956,Saathoff,Johann,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+958,Scheer,Nina,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Abwesend,Nein,Ja,Ja,Ja
+959,Schiefner,Udo,SPD,Abwesend,Abwesend,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Abwesend
+962,Schmidt (Wetzlar),Dagmar,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+964,Schwarz,Andreas,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+967,Stadler,Svenja,SPD,Abwesend,Abwesend,Nein,Enthaltung,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+968,Stamm-Fibich,Martina,SPD,Ja,Nein,Nein,Ja,Ja,Abwesend,Ja,Nein,Ja,Ja,Abwesend
+969,Tausend,Claudia,SPD,Ja,Nein,Nein,Ja,Ja,Abwesend,Ja,Nein,Ja,Ja,Ja
+970,Thews,Michael,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+971,Träger,Carsten,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+972,Vöpel,Dirk,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+974,Westphal,Bernd,SPD,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+975,Wiese,Dirk,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+976,Yüksel,Gülistan,SPD,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+977,Zierke,Stefan,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+978,Zimmermann,Jens,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Abwesend
+1018,Renner,Martina,DIE LINKE.,Enthaltung,Nein,Ja,Abwesend,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1024,Amtsberg,Luise,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Abwesend,Nein,Abwesend,Abwesend,Abwesend
+1025,Baerbock,Annalena,BÜ90/GR,Ja,Nein,Abwesend,Abwesend,Abwesend,Abwesend,Ja,Nein,Ja,Ja,Ja
+1026,Brantner,Franziska,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1027,Brugger,Agnieszka,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1028,Dröge,Katharina,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1029,Gastel,Matthias,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1031,Janecek,Dieter,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1033,Kühn (Tübingen),Christian,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1034,Lemke,Steffi,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1036,Mihalic,Irene,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1038,Özdemir,Cem,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Abwesend,Nein,Ja,Ja,Abwesend
+1039,Rüffer,Corinna,BÜ90/GR,Ja,Abwesend,Abwesend,Abwesend,Ja,Ja,Abwesend,Nein,Ja,Ja,Abwesend
+1040,Schauws,Ulle,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1041,Schulz-Asche,Kordula,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1042,Verlinden,Julia,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1044,Rupprecht,Albert,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1046,Petry,Christian,SPD,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1047,Jung,Andreas,CDU/CSU,Nein,Ja,Abwesend,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1048,Schieder,Marianne,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1051,Glöckner,Angelika,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1056,Müller (Chemnitz),Detlef,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1061,Ryglewski,Sarah,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Abwesend,Ja
+1065,Berghegger,André,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1067,Hahn,André,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1071,Coße,Jürgen,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1073,Kemmer,Ronja,CDU/CSU,Nein,Ja,Nein,Ja,Abwesend,Abwesend,Abwesend,Ja,Nein,Ja,Ja
+1080,Altenkamp,Norbert Maria,CDU/CSU,Nein,Ja,Nein,Ja,Abwesend,Abwesend,Abwesend,Ja,Nein,Ja,Ja
+1081,Amthor,Philipp,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Abwesend
+1084,Biadacz,Marc,CDU/CSU,Nein,Abwesend,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1085,Brand (Fulda),Michael,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1086,Breher,Silvia,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1087,Brehm,Sebastian,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1088,Brodesser,Carsten,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1089,Damerow,Astrid,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1090,Erndl,Thomas,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1092,Heilmann,Thomas,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1093,Henrichmann,Marc,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Abwesend
+1095,Jung,Ingmar,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1097,Kießling,Michael,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1100,Lehmann,Jens,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1102,Loos,Bernhard,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1104,Müller,Axel,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1105,Müller,Sepp,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1106,Nicolaisen,Petra,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1107,Oster,Josef,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1108,Pilsinger,Stephan,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1109,Ploß,Christoph,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1110,Rouenhoff,Stefan,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1113,Schön,Nadine,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1114,Schreiner,Felix,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Abwesend
+1116,Simon,Björn,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1117,Staffler,Katrin,CDU/CSU,Nein,Ja,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+1120,Tebroke,Hermann-Josef,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1121,Thies,Hans-Jürgen,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Abwesend
+1122,Throm,Alexander,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1124,Uhl,Markus,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1125,Vieregge,Kerstin,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1126,Vries,Christoph,CDU/CSU,Nein,Ja,Nein,Ja,Abwesend,Abwesend,Abwesend,Ja,Nein,Ja,Ja
+1127,Wadephul,Johann David,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Abwesend,Abwesend,Abwesend
+1129,Ziemiak,Paul,CDU/CSU,Nein,Ja,Nein,Ja,Abwesend,Abwesend,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1130,Breymaier,Leni,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1131,Budde,Katrin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1132,Dilcher,Esther,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1133,Esdar,Wiebke,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1134,Fahimi,Yasmin,SPD,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1135,Gremmels,Timon,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1136,Kaiser,Elisabeth,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1138,Lindh,Helge,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Abwesend,Ja
+1139,Maas,Heiko,SPD,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Ja,Nein,Abwesend,Abwesend,Abwesend
+1141,Mohrs,Falko,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1142,Moll,Claudia,SPD,Ja,Nein,Abwesend,Abwesend,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1143,Möller,Siemtje,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1144,Ortleb,Josephine,SPD,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+1145,Schmid,Nils,SPD,Ja,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1146,Schmidt,Uwe,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1147,Schraps,Johannes,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1148,Schrodi,Michael,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1152,Stein,Mathias,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1153,Töns,Markus,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1154,Völlers,Marja-Liisa,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1155,Baumann,Bernd,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1156,Bernhard,Marc,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1157,Bleck,Andreas,AfD,Nein,Nein,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1158,Boehringer,Peter,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1159,Brandner,Stephan,AfD,Nein,Nein,Nein,Nein,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1160,Braun,Jürgen,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1161,Bühl,Marcus,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1163,Bystron,Petr,AfD,Nein,Nein,Enthaltung,Nein,Nein,Abwesend,Nein,Abwesend,Abwesend,Abwesend,Abwesend
+1164,Chrupalla,Tino,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1166,Curio,Gottfried,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Abwesend,Nein,Ja,Nein
+1168,Ehrhorn,Thomas,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Abwesend
+1170,Espendiller,Michael,AfD,Abwesend,Abwesend,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1171,Felser,Peter,AfD,Abwesend,Abwesend,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1172,Friedhoff,Dietmar,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1174,Frohnmaier,Markus,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Abwesend
+1175,Frömming,Götz,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1176,Gauland,Alexander,AfD,Nein,Nein,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1181,Gottschalk,Kay,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1183,Harder-Kühnel,Mariana Iris,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1186,Haug,Jochen,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1191,Hess,Martin,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1193,Hilse,Karsten,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Abwesend,Nein
+1194,Höchst,Nicole,AfD,Nein,Nein,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Nein,Nein,Nein,Nein
+1197,Holm,Leif-Erik,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1198,Huber,Johannes,AfD,Nein,Nein,Enthaltung,Nein,,,,,,,
+1199,Jacobi,Fabian,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1200,Jongen,Marc,AfD,Nein,Nein,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1203,Keuter,Stefan,AfD,Abwesend,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1204,Kleinwächter,Norbert,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Abwesend,Nein,Ja,Nein
+1205,Komning,Enrico,AfD,Nein,Nein,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein,Ja,Abwesend
+1206,König,Jörn,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1207,Kotré,Steffen,AfD,Abwesend,Nein,Enthaltung,Nein,Nein,Abwesend,Abwesend,Nein,Nein,Abwesend,Abwesend
+1208,Kraft,Rainer,AfD,Nein,Nein,Nein,Nein,Abwesend,Abwesend,Abwesend,Nein,Nein,Nein,Nein
+1209,Lucassen,Rüdiger,AfD,Nein,Nein,Enthaltung,Nein,Nein,Abwesend,Nein,Nein,Nein,Ja,Nein
+1214,Miazga,Corinna,AfD,Nein,Nein,Enthaltung,Nein,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+1218,Münzenmaier,Sebastian,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1220,Nolte,Jan Ralf,AfD,Nein,Nein,Enthaltung,Nein,Abwesend,Abwesend,Nein,Enthaltung,Nein,Ja,Nein
+1222,Otten,Gerold,AfD,Abwesend,Abwesend,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1224,Peterka,Tobias Matthias,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Enthaltung,Nein
+1226,Pohl,Jürgen,AfD,Abwesend,Abwesend,Abwesend,Abwesend,Nein,Nein,Nein,Abwesend,Abwesend,Abwesend,Abwesend
+1227,Protschka,Stephan,AfD,Nein,Nein,Enthaltung,Nein,Abwesend,Abwesend,Abwesend,Nein,Nein,Ja,Nein
+1228,Reichardt,Martin,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Abwesend
+1229,Renner,Martin Erwin,AfD,Abwesend,Abwesend,Enthaltung,Nein,Nein,Abwesend,Nein,Abwesend,Nein,Ja,Nein
+1231,Schielke-Ziesing,Ulrike,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1233,Schneider,Jörg,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1234,Schulz,Uwe,AfD,Nein,Nein,Enthaltung,Nein,Nein,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+1235,Seitz,Thomas,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1236,Sichert,Martin,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1238,Spaniel,Dirk,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1239,Springer,René,AfD,Nein,Nein,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1240,Storch,Beatrix,AfD,Nein,Nein,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1241,Weidel,Alice,AfD,Abwesend,Abwesend,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein,Ja,Abwesend
+1242,Weyel,Harald,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Enthaltung,Nein
+1243,Wiehle,Wolfgang,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1245,Wirth,Christian,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1246,Witt,Uwe,AfD,Abwesend,Abwesend,Abwesend,Abwesend,,,,,,,
+1248,Alt,Renata,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1249,Bauer,Nicole,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1250,Beeck,Jens,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1253,Brandenburg (Rhein-Neckar),Jens,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1254,Busen,Karlheinz,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1255,Cronenberg,Carl-Julius,FDP,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1257,Dürr,Christian,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1259,Faber,Marcus,FDP,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1260,Föst,Daniel,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1261,Hacker,Thomas,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1262,Helling-Plahr,Katrin,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1263,Herbrand,Markus,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1264,Herbst,Torsten,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1265,Hessel,Katja,FDP,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1266,Hocker,Gero Clemens,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1267,Hoffmann,Christoph,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1268,Houben,Reinhard,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1270,In der Beek,Olaf,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1271,Jensen,Gyde,FDP,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1274,Klein,Karsten,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1277,Kluckert,Daniela,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1278,Köhler,Lukas,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1279,Konrad,Carina,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1280,Kubicki,Wolfgang,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+1283,Lambsdorff,Alexander,FDP,Ja,Nein,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1284,Lechte,Ulrich,FDP,Ja,Nein,Nein,Nein,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1285,Lindner,Christian,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+1286,Mansmann,Till,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1288,Meyer,Christoph,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1289,Müller,Alexander,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1291,Müller-Rosentritt,Frank,FDP,Ja,Nein,Nein,Enthaltung,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1292,Reuther,Bernd,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1293,Sattelberger,Thomas,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1294,Sauter,Christian,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1296,Seestern-Pauly,Matthias,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1298,Stark-Watzinger,Bettina,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Abwesend,Abwesend
+1299,Strack-Zimmermann,Marie-Agnes,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1300,Strasser,Benjamin,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1302,Teuteberg,Linda,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1303,Theurer,Michael,FDP,Ja,Nein,Abwesend,Abwesend,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+1304,Ullmann,Andrew,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1305,Ullrich,Gerald,FDP,Ja,Nein,Nein,Enthaltung,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1306,Weeser,Sandra,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1307,Westig,Nicole,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1309,Akbulut,Gökay,DIE LINKE.,Enthaltung,Nein,Abwesend,Enthaltung,Nein,Nein,Nein,Nein,Abwesend,Abwesend,Abwesend
+1316,Domscheit-Berg,Anke,DIE LINKE.,Abwesend,Abwesend,Ja,Enthaltung,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+1317,Ferschl,Susanne,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1322,Meiser,Pascal,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Abwesend,Nein,Nein,Abwesend,Nein
+1323,Mohamed Ali,Amira,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1324,Nastic,Zaklin,DIE LINKE.,Enthaltung,Abwesend,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1325,Pellmann,Sören,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1326,Perli,Victor,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1328,Riexinger,Bernd,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1332,Tatti,Jessica,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1334,Badum,Lisa,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1337,Bayram,Canan,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Nein,Nein,Enthaltung,Nein,Nein
+1338,Christmann,Anna,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1339,Gelbhaar,Stefan,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Ja,Ja,Nein,Ja,Ja,Ja
+1340,Grundl,Erhard,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1341,Hoffmann,Bettina,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1343,Kappert-Gonther,Kirsten,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1344,Lehmann,Sven,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Abwesend,Abwesend,Abwesend
+1345,Müller,Claudia,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+1346,Nestle,Ingrid,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1347,Polat,Filiz,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1348,Rottmann,Manuela,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1349,Schmidt,Stefan,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1353,Cotar,Joana,AfD,Abwesend,Abwesend,Enthaltung,Nein,Abwesend,Abwesend,Abwesend,Nein,Nein,Ja,Nein
+1354,Glaser,Albrecht,AfD,Abwesend,Abwesend,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Abwesend,Abwesend
+1355,Kuhle,Konstantin,FDP,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1356,Vogel (Olpe),Johannes,FDP,Ja,Nein,,,,,,,,,
+1357,Link (Heilbronn),Michael Georg,FDP,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1359,Brandenburg (Südpfalz),Mario,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1363,Baradari,Nezahat,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1368,Heidt,Peter,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Abwesend,Ja,Ja
+1371,Weingarten,Joe,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1373,Hanke,Reginald,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Enthaltung,Nein,Ja,Enthaltung,Enthaltung
+1375,Lehmann,Sylvia,SPD,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Abwesend,Nein,Ja,Ja,Ja
+1376,Bubendorfer-Licht,Sandra,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1381,Martin,Dorothee,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1384,Dahmen,Janosch,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1390,Mackensen-Geis,Isabel,SPD,Abwesend,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1391,Emmerich,Marcel,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1397,Abdi,Sanae,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Abwesend,Abwesend,Abwesend
+1398,Ahmetovic,Adis,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1399,Alabali-Radovan,Reem,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1400,Andres,Dagmar,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1401,Arlt,Johannes,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1402,Baldy,Daniel,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1403,Becker,Holger,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1404,Berghahn,Jürgen,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1405,Bergt,Bengt,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1406,Blankenburg,Jakob,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1407,Cademartori Dujisin,Isabel,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+1408,Demir,Hakan,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1409,Diedenhofen,Martin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1410,Dieren,Jan,SPD,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+1411,Döring,Felix,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1412,Droßmann,Falko,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1413,Echeverria,Axel,SPD,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1414,Eichwede,Sonja,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1415,Engelhardt,Heike,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1416,Fäscher,Ariane,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1417,Fiedler,Sebastian,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1418,Funke,Fabian,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1419,Gava,Manuel,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1420,Heiligenstadt,Frauke,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1421,Hennig,Anke,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1422,Heselhaus,Nadine,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1423,Hostert,Jasmina,SPD,Abwesend,Abwesend,Abwesend,Abwesend,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1424,Hubertz,Verena,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1425,Hümpfer,Markus,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1426,Karaahmetoglu,Macit,SPD,Ja,Abwesend,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1427,Kasper,Carlos,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1428,Kassautzki,Anna,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1429,Keller,Rainer Johannes,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1430,Kersten,Franziska,SPD,Ja,Nein,Abwesend,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1431,Kleebank,Helmut,SPD,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1432,Klinck,Kristian,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1433,Klose,Annika,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1434,Klüssendorf,Tim,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1435,Koß,Simona,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1436,Kreiser,Dunja,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1437,Kröber,Martin,SPD,Ja,Nein,Abwesend,Abwesend,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1438,Kühnert,Kevin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1439,Lahrkamp,Sarah,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1440,Larem,Andreas,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1441,Leiser,Kevin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1442,Licina-Bode,Luiza,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1443,Limbacher,Esra,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Abwesend,Abwesend,Abwesend
+1444,Lugk,Bettina,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1445,Machalet,Tanja,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1446,Malottki,Erik,SPD,Abwesend,Nein,Nein,Ja,Ja,Ja,Nein,Nein,Ja,Ja,Ja
+1447,Mann,Holger,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1448,Mansoori,Kaweh,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1449,Martens,Zanda,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1450,Marvi,Parsa,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1451,Mascheck,Franziska,SPD,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1452,Mehltretter,Andreas,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1453,Mehmet Ali,Takis,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1454,Mesarosch,Robin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1455,Michel,Kathrin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1456,Mieves,Matthias David,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1457,Müller,Michael,SPD,Abwesend,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1458,Nasr,Rasha,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1459,Nickholz,Brian,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1460,Nürnberger,Jörg,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1461,Oehl,Lennard,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1462,Pantazis,Christos,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1463,Papenbrock,Wiebke,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1464,Papendieck,Mathias,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+1465,Pawlik,Natalie,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1466,Peick,Jens,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1467,Philippi,Andreas,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1468,Plobner,Jan,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1469,Rhie,Ye-One,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1470,Roloff,Sebastian,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1471,Rosenthal,Jessica,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1472,Rudolph,Thorsten,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1473,Rudolph,Tina,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1474,Schäfer,Ingo,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1475,Schamber,Rebecca,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1476,Schätzl,Johannes,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1477,Schierenbeck,Peggy,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1478,Schisanowski,Timo,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1479,Schmid,Christoph,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1480,Schneider,Daniel,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1481,Scholz,Olaf,SPD,Ja,Abwesend,Abwesend,Abwesend,Ja,Ja,Ja,Nein,Ja,Abwesend,Abwesend
+1482,Schreider,Christian,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1483,Schulze,Svenja,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+1484,Seitzl,Lina,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1485,Stegner,Ralf,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1486,Sthamer,Nadja,SPD,Ja,Nein,Abwesend,Abwesend,Ja,Ja,Nein,Nein,Ja,Ja,Ja
+1487,Stüwe,Ruppert,SPD,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Nein
+1488,Troff-Schaffarzyk,Anja,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1489,Türk-Nachbaur,Derya,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1490,Ullrich,Frank,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1491,Wagner,Carolin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1492,Wallstein,Maja,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1493,Walter,Hannes,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1494,Wegge,Carmen,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1495,Wegling,Melanie,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1496,Werner,Lena,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1497,Wollmann,Herbert,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1498,Zorn,Armand,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1499,Zschau,Katrin,SPD,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1500,Abraham,Knut,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1501,Borchardt,Simone,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1502,Breilmann,Michael,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1503,Bröhr,Marlon,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1504,Bury,Yannick,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1505,Czaja,Mario,CDU/CSU,Nein,Ja,Nein,Abwesend,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1506,Edelhäußer,Ralph,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1507,Engelhard,Alexander,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1508,Englhardt-Kopf,Martina,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1509,Geissler,Jonas,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1510,Gramling,Fabian,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1511,Gräßle,Ingeborg,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1512,Güler,Serap,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1513,Hierl,Susanne,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1514,Hoppermann,Franziska,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1515,Janssen,Anne,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1516,Klein,Ottilie,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1517,Klöckner,Julia,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1518,König,Anne,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1519,Kuban,Tilman Moritz,CDU/CSU,Nein,Ja,,,,,,,,,
+1520,Laschet,Armin,CDU/CSU,Nein,Ja,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja
+1521,Mack,Klaus,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1522,Mayer-Lay,Volker,CDU/CSU,Nein,Ja,Nein,Enthaltung,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1523,Merz,Friedrich,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Abwesend
+1524,Mörseburg,Maximilian,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1525,Müller,Florian,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1526,Nacke,Stefan,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1527,Oppelt,Moritz,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1528,Plum,Martin,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1529,Rehbaum,Henning,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1530,Reichel,Markus,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1531,Rohwer,Lars,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1532,Röwekamp,Thomas,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Abwesend
+1533,Santos Firnhaber,Catarina,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1534,Schenderlein,Christiane,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1535,Schwarz,Armin,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1536,Stöcker,Diana,CDU/CSU,Nein,Ja,Abwesend,Abwesend,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1537,Stumpp,Christina,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1538,Vogt,Oliver,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1539,Weiss,Maria-Lena,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1540,Wiener,Klaus,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1541,Winkler,Tobias,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Abwesend,Nein,Ja,Ja
+1542,Wittmann,Mechthilde,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1543,Wulf,Mareike Lotte,CDU/CSU,Nein,Ja,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1544,Zippelius,Nicolas,CDU/CSU,Abwesend,Abwesend,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1545,Aeffner,Stephanie,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1546,Audretsch,Andreas,BÜ90/GR,Ja,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1547,Außendorf,Maik,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1548,Bacherle,Tobias,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1549,Banaszak,Felix,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Abwesend,Ja,Ja
+1550,Bär,Karl,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1551,Beck,Katharina,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1552,Benner,Lukas,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1553,Bsirske,Frank,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Abwesend,Abwesend
+1554,Detzer,Sandra,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1555,Düring,Deborah,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1556,Eckert,Leon,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1557,Fester,Emilia,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1558,Gambir,Schahina,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1559,Ganserer,Tessa,BÜ90/GR,Abwesend,Abwesend,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1560,Gesenhues,Jan-Niclas,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1561,Grau,Armin,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1562,Grützmacher,Sabine,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1563,Habeck,Robert,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1564,Heitmann,Linda,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1565,Henneberger,Kathrin,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Nein,Nein,Ja,Ja,Nein
+1566,Herrmann,Bernhard,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1567,Hönel,Bruno,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Abwesend,Ja,Ja
+1568,Kaddor,Lamya,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1569,Kellner,Michael,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1570,Khan,Misbah,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1571,Kopf,Chantal,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1572,Kraft,Laura,BÜ90/GR,Ja,Nein,Abwesend,Abwesend,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1573,Krämer,Philip,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1574,Lang,Ricarda,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1575,Liebert,Anja,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1576,Limburg,Helge,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+1577,Loop,Denise,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1578,Lucks,Max,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1579,Lührmann,Anna,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Abwesend,Nein,Ja,Ja,Ja
+1580,Mayer,Zoe,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1581,Menge,Susanne,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1582,Michaelsen,Swantje Henrike,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1583,Mijatovic,Boris,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1584,Müller,Sascha,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1585,Nanni,Sara,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1586,Nick,Ophelia,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1587,Otte,Karoline,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1588,Pahlke,Julian,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1589,Piechotta,Paula,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1590,Reinalter,Anja,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1591,Saleh,Kassem Taher,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,,,,
+1592,Schäfer,Jamila,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1593,Schäfer,Sebastian,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1594,Schönberger,Marlene,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1595,Schröder,Christina-Johanne,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+1596,Sekmen,Melis,BÜ90/GR,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Abwesend,Nein,Ja,Ja,Ja
+1597,Slawik,Nyke,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Ja,Ja,Ja
+1598,Spallek,Anne Monika,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1599,Spellerberg,Merle,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1600,Stahr,Nina,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1601,Steffen,Till,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1602,Steinmüller,Hanna,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1603,Tesfaiesus,Awet,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1604,Uhlig,Katrin,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1605,Wagener,Niklas,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1606,Wagener,Robin,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1607,Wagner,Johannes,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1608,Weishaupt,Saskia,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1609,Wenzel,Stefan,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1610,Winklmann,Tina,BÜ90/GR,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1611,Abel,Valentin,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1612,Adler,Katja,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1613,Al-Halak,Muhanad,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Abwesend
+1614,Bodtke,Ingo,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1615,Boginski,Friedhelm,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1616,Funke-Kaiser,Maximilian,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1617,Gassner-Herz,Martin,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1618,Gerschau,Knut,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1619,Hartewig,Philipp,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1620,Harzer,Ulrike,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1621,Jurisch,Ann-Veruschka,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1622,Kruse,Michael,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1623,Lenders,Jürgen,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1624,Lieb,Thorsten,FDP,Ja,Abwesend,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1625,Lütke,Kristine,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1626,Merten,Anikó,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1627,Mordhorst,Maximilian,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1628,Raffelhüschen,Claudia,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1629,Redder,Volker,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1630,Schröder,Ria,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1631,Schulz,Anja,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1632,Seiter,Stephan,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1633,Semet,Rainer,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1634,Stockmeier,Konrad,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1635,Teutrine,Jens,FDP,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1636,Tippelt,Nico,FDP,Ja,Nein,Nein,Ja,Abwesend,Abwesend,Ja,Nein,Ja,Ja,Ja
+1637,Bachmann,Carolin,AfD,Abwesend,Abwesend,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1638,Baum,Christina,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Enthaltung,Nein
+1639,Beckamp,Roger,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Abwesend,Abwesend,Abwesend,Abwesend
+1640,Bochmann,René,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1641,Bollmann,Gereon,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1642,Brandes,Dirk,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1643,Dietz,Thomas,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Abwesend,Abwesend,Ja,Abwesend
+1644,Farle,Robert,AfD,Nein,Nein,Ja,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1645,Gnauck,Hannes,AfD,Nein,Nein,Abwesend,Abwesend,Nein,Abwesend,Nein,Nein,Nein,Ja,Nein
+1646,Huy,Gerrit,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Abwesend,Abwesend
+1647,Janich,Steffen,AfD,Abwesend,Abwesend,Enthaltung,Nein,Nein,Nein,Nein,Abwesend,Nein,Enthaltung,Nein
+1648,Kaufmann,Malte,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1649,Kaufmann,Michael,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1650,Lenk,Barbara,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Abwesend,Nein,Ja,Nein
+1651,Moncsek,Mike,AfD,Nein,Nein,Ja,Nein,Nein,Nein,Nein,Abwesend,Abwesend,Abwesend,Abwesend
+1652,Moosdorf,Matthias,AfD,Nein,Nein,Enthaltung,Nein,Abwesend,Nein,Nein,Nein,Nein,Ja,Nein
+1653,Naujok,Edgar,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Abwesend
+1654,Rinck,Frank,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1655,Schattner,Bernd,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1656,Schmidt,Eugen,AfD,Nein,Nein,Enthaltung,Nein,Nein,Abwesend,Nein,Nein,Nein,Ja,Abwesend
+1657,Schmidt,Jan Wenzel,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1658,Stöber,Klaus,AfD,Nein,Nein,Ja,Nein,Nein,Nein,Nein,Ja,Nein,Ja,Nein
+1659,Wundrak,Joachim,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1660,Ziegler,Kay-Uwe,AfD,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1661,Al-Dailami,Ali,DIE LINKE.,Abwesend,Abwesend,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1662,Görke,Christian,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1663,Gürpinar,Ates,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1664,Hennig-Wellsow,Susanne,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Abwesend,Abwesend,Nein,Nein,Nein,Nein,Nein
+1665,Latendorf,Ina,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Abwesend,Nein,Nein,Nein,Nein,Nein
+1666,Leye,Christian,DIE LINKE.,Enthaltung,Nein,Abwesend,Abwesend,Nein,Nein,Abwesend,Nein,Nein,Nein,Nein
+1667,Reichinnek,Heidi,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1668,Wissler,Janine,DIE LINKE.,Enthaltung,Nein,Ja,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1669,Helferich,Matthias,Fraktionslos,Nein,Nein,Enthaltung,Nein,Nein,Nein,Nein,Nein,Nein,Ja,Nein
+1670,Seidler,Stefan,Fraktionslos,Ja,Nein,Nein,Ja,Ja,Ja,Ja,Abwesend,Abwesend,Abwesend,Abwesend
+1671,Kuban,Tilman,CDU/CSU,,,Nein,Ja,Nein,Nein,Ja,Ja,Nein,Ja,Ja
+1672,Vogel,Johannes,FDP,,,Nein,Ja,Ja,Ja,Ja,Nein,Ja,Ja,Ja
+1673,Bünger,Clara,DIE LINKE.,,,,,Nein,Nein,Nein,Nein,Nein,Nein,Nein
+1674,Huber,Johannes,Fraktionslos,,,,,Nein,Nein,Nein,Abwesend,Nein,Abwesend,Nein
+1675,Witt,Uwe,Fraktionslos,,,,,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend,Abwesend
+1676,Taher Saleh,Kassem,BÜ90/GR,,,,,,,,Nein,Ja,Ja,Ja

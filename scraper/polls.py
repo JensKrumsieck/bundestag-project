@@ -107,7 +107,7 @@ def merge_data():
         progress(idx, len(files), f"({idx}/{len(files)})")
         dfs.append(pd.read_excel(folder+file))
     df = pd.concat(dfs)
-    df.to_csv(f'{baseDir}out/data.csv', sep=";", encoding='utf-8-sig')
+    df.to_csv(f'{baseDir}out/data.csv', encoding='utf-8-sig')
     print("merge completed!")
 
 
@@ -134,7 +134,7 @@ def evaluate_vote(row: pd.Series):
 def process_data():
     # data reduction, takes some minutes
     file = f'{baseDir}out/data.csv'
-    df = pd.read_csv(file, sep=";")
+    df = pd.read_csv(file)
     unique = df.drop_duplicates(subset=["Name", "Vorname", "Fraktion/Gruppe"])
     names = pd.DataFrame([unique["Name"], unique["Vorname"], unique["Fraktion/Gruppe"]]).transpose().reset_index().drop("index", axis=1)
     results = dict()
@@ -161,7 +161,7 @@ def process_data():
         cur = cur.drop(list(cols), axis=1)
         vote_cols = [c for c in cur.columns if "-" in c]
         cur = cur.dropna(axis=0, how="all", subset=vote_cols)
-        cur.to_csv(f'{rootDir}/data/{period}_data.csv', sep=";", encoding='utf-8-sig')
+        cur.to_csv(f'{rootDir}/data/{period}_data.csv', encoding='utf-8-sig')
     # merge and save all
     all: pd.DataFrame = pd.concat(results.values())
-    all.to_csv(f'{rootDir}/data/all_data.csv', sep=";", encoding='utf-8-sig')
+    all.to_csv(f'{rootDir}/data/all_data.csv', encoding='utf-8-sig')
